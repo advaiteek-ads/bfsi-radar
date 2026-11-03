@@ -1,1 +1,49 @@
-config
+# ===== THE ONLY FILE YOU EDIT. Edit it right on github.com (pencil icon). =====
+# No passwords or keys are needed anywhere in this project.
+
+# 1) Official + news feeds. If one breaks, the page tells you; just fix or delete the line.
+feeds:
+  - {name: RBI Press Releases, url: "https://rbi.org.in/pressreleases_rss.xml", official: true}
+  - {name: RBI Notifications, url: "https://rbi.org.in/notifications_rss.xml", official: true}
+  - {name: SEBI, url: "https://www.sebi.gov.in/sebirss.xml", official: true}
+  - {name: ET Markets, url: "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"}
+  - {name: ET Wealth, url: "https://economictimes.indiatimes.com/wealth/rssfeeds/837555174.cms"}
+  - {name: Moneycontrol Business, url: "https://www.moneycontrol.com/rss/business.xml"}
+  - {name: Moneycontrol Mutual Funds, url: "https://www.moneycontrol.com/rss/mfnews.xml"}
+  - {name: Livemint Money, url: "https://www.livemint.com/rss/money"}
+  - {name: Livemint Markets, url: "https://www.livemint.com/rss/markets"}
+
+# 2) Google News searches (the easiest way to add any topic: just add a phrase)
+google_news_searches:
+  - RBI circular
+  - SEBI new rule
+  - UPI payments India
+  - home loan interest rate India
+  - credit card rules India
+  - mutual fund SIP India
+  - IRDAI insurance
+  - income tax ITR India
+  - bank fraud India
+  - NPS PPF India
+
+# 3) Reddit community signal (BONUS: may be blocked by Reddit; the tool works fine without it)
+reddit_rss:
+  enabled: true
+  subreddits: [IndiaInvestments, personalfinanceindia, CreditCardsIndia, mutualfunds, IndiaTax, IndianStockMarket]
+
+# Industry sections (words to look for, all lowercase)
+categories:
+  Banking & Regulation: [rbi, repo rate, monetary policy, npa, kyc, cibil, bank, nbfc, penalty]
+  Lending & Credit: [home loan, personal loan, emi, credit score, gold loan, education loan, interest rate, credit card]
+  Payments & Fintech: [upi, neft, rtgs, paytm, phonepe, rupay, bnpl, cbdc, digital rupee, fintech]
+  Investing & Markets: [sebi, mutual fund, sip, nifty, sensex, ipo, etf, f&o, demat, nps, ppf, elss]
+  Insurance: [irdai, term insurance, health insurance, ulip, claim, lic, premium, annuity]
+  Tax & Compliance: [income tax, itr, tds, capital gains, gst, 80c, new tax regime, form 16]
+
+# Words that make a story "important" even if it is not widely covered
+priority_words: [circular, deadline, new rule, scam, fraud, penalty, ban, notification, mandatory, amendment, warning, last date, guidelines]
+
+max_age_days: 5
+top_count: 5
+per_category: 3
+secondary_count: 10
