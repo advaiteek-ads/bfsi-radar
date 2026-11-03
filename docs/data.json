@@ -1,57 +1,20 @@
 {
- "updated": "03 Nov 2026, 07:21 AM IST",
+ "updated": "03 Nov 2026, 07:29 AM IST",
  "top": [
   {
-   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+   "title": "FD interest rates: This government bank hikes rates, launches new deposit scheme – Check details",
+   "url": "https://www.livemint.com/money/personal-finance/fd-interest-rates-this-government-bank-hikes-rates-launches-new-deposit-scheme-check-details-11793615771493.html",
    "sources": [
-    "RBI Notifications"
+    "Livemint",
+    "Livemint Money"
    ],
-   "source_count": 1,
-   "official": true,
+   "source_count": 2,
+   "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 0,
-   "score": 30.0
-  },
-  {
-   "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
-   "sources": [
-    "RBI Notifications"
-   ],
-   "source_count": 1,
-   "official": true,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 0,
-   "score": 30.0
-  },
-  {
-   "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
-   "sources": [
-    "RBI Notifications"
-   ],
-   "source_count": 1,
-   "official": true,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 0,
-   "score": 30.0
-  },
-  {
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "sources": [
-    "RBI Notifications"
-   ],
-   "source_count": 1,
-   "official": true,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 0,
-   "score": 30.0
+   "priority": 1,
+   "age_hours": 14,
+   "score": 30.9
   },
   {
    "title": "SEBI reduces OFS cooling-off period for illiquid private InvITs to 8 weeks",
@@ -63,70 +26,106 @@
    ],
    "source_count": 3,
    "official": false,
+   "official_only": false,
    "category": "Investing & Markets",
    "priority": 0,
    "age_hours": 8,
    "score": 28.2
+  },
+  {
+   "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-month-after-rbis-rate-hike-banks-start-raising-deposit-rates-as-liquidity-shrinks-bank-of-india-the-latest-to-move/articleshow/135478028.cms",
+   "sources": [
+    "ET Markets",
+    "The Economic Times"
+   ],
+   "source_count": 2,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 7,
+   "score": 27.0
+  },
+  {
+   "title": "RBI approves Sankaran G as City Union Bank executive director",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0IwQTRWZ2F6VWNmTjZWb3otWmVGN3FpaTJJWWNBMERIXzcxVzRwU0FHY0htaVNLTlEzZU5BTlp0ZUVrZHNNTjJ3cVN3U2lNNXpqd0VDZGtMZi1ZcWNVZ0JSX0FxU05hUFV4VjR1ZVdEX3RVNFhaNGpoYUE0X3RIOGhhcWx3QzNkUmNTMExDcXdiRm10V2tMTU1MdTU5bXpwdC0tMkZhR3BnY3RFa3NkalFaRUdsQQ?oc=5",
+   "sources": [
+    "Kalkine India",
+    "scanx.trade"
+   ],
+   "source_count": 2,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 12,
+   "score": 24.7
+  },
+  {
+   "title": "Diwali investment picks 2026: 10 fund managers reveal promising opportunities and risks to watch",
+   "url": "https://economictimes.indiatimes.com/wealth/invest/diwali-investment-picks-2026-9-fund-managers-reveal-promising-opportunities-and-risks-to-watch/articleshow/135371852.cms",
+   "sources": [
+    "ET Wealth",
+    "The Economic Times"
+   ],
+   "source_count": 2,
+   "official": false,
+   "official_only": false,
+   "category": "Lending & Credit",
+   "priority": 1,
+   "age_hours": 25,
+   "score": 24.3
   }
  ],
  "industry": {
   "Banking & Regulation": [
    {
-    "title": "Processing of Applications Received Under the Citizen’s Charter Status as on October 31, 2026",
-    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63901",
-    "sources": [
-     "RBI Press Releases"
-    ],
-    "source_count": 1,
-    "official": true,
-    "category": "Banking & Regulation",
-    "priority": 1,
-    "age_hours": 0,
-    "score": 28.0
-   },
-   {
-    "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-month-after-rbis-rate-hike-banks-start-raising-deposit-rates-as-liquidity-shrinks-bank-of-india-the-latest-to-move/articleshow/135478028.cms",
-    "sources": [
-     "ET Markets",
-     "The Economic Times"
-    ],
-    "source_count": 2,
-    "official": false,
-    "category": "Banking & Regulation",
-    "priority": 1,
-    "age_hours": 7,
-    "score": 27.0
-   },
-   {
-    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries",
-    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13747&Mode=0",
-    "sources": [
-     "RBI Notifications"
-    ],
-    "source_count": 1,
-    "official": true,
-    "category": "Banking & Regulation",
-    "priority": 1,
-    "age_hours": 0,
-    "score": 25.0
-   }
-  ],
-  "Lending & Credit": [
-   {
-    "title": "Diwali investment picks 2026: 10 fund managers reveal promising opportunities and risks to watch",
-    "url": "https://economictimes.indiatimes.com/wealth/invest/diwali-investment-picks-2026-9-fund-managers-reveal-promising-opportunities-and-risks-to-watch/articleshow/135371852.cms",
+    "title": "Bank of India revises FD interest rates: Launches 500-day fixed deposit offering 7.35% rate to senior citizens",
+    "url": "https://economictimes.indiatimes.com/wealth/save/bank-of-india-latest-revises-fd-interest-rates-from-november-2-launches-500-day-fixed-deposit-offering-7-35-rate-to-senior-citizens/articleshow/135461876.cms",
     "sources": [
      "ET Wealth",
      "The Economic Times"
     ],
     "source_count": 2,
     "official": false,
-    "category": "Lending & Credit",
+    "official_only": false,
+    "category": "Banking & Regulation",
     "priority": 1,
-    "age_hours": 25,
-    "score": 24.4
+    "age_hours": 14,
+    "score": 24.2
    },
+   {
+    "title": "New Rs 10, Rs 20 & Rs 50 notes to run short before Diwali? PIB Fact Check debunks viral RBI circular",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGd5dmFKNDgwdUlTemJ4SkFDemdPNnVoT0FUZUN2NDNvZ3dPc2VDczBCN0ttZS1jaEpoLUI4cEZjdHdZM0NaNDdmZE5nazZBdElYNzBYWWFNM211Qjl0UnNqdUdvT2NaMVhoQVhVREprX0xOdkNvbFhFa2tISWliR1l0R3E3eUpncU9aU0cyOE02SHJOTnF6VFJLbjd5TU5YSUlUZUJ1QmJEQUswU0N6RlNVTi1LeDhyS3d6R3BjVFZzaHdiS0pGXzdub01oRlVTZzlnemhaTHhOVDdqVGdqNDFTQTZoS01MNjVlNTFPVmY1SXVCRW55VTJyTXprR0Vy0gGGAkFVX3lxTFBOX0VuRU1WekVuWktJWnRFRXVhWmI5Zk9PVV9YV21Zb3c3ZWptS3NDSHYtdWh0d1c2aGYzQTY1UTFWSTNlcUlpRjJVRUx4Q3JMa3AtNHE4R2dYWGJMZS05dkhnc2cxcFpway10RWszMU9PRDZreGRwWkZuR044ak83WWdfVGpoTGFFU0YzWS1OUWhxNWxQaEE4NXhTWXJadE9pUmExdGVMRkdpMlZYZWlGUTYxem9mZDdZcXR3X3pnOS1PUjY5TkpmaEFpUnVjWVpKZC1uMEdMSnBfTmlRbHFfOU80YlBPN25RY3NidG8yZ29MTnhmWGhZdXZnNHJzMmswa085WkE?oc=5",
+    "sources": [
+     "The Economic Times",
+     "inkl"
+    ],
+    "source_count": 2,
+    "official": false,
+    "official_only": false,
+    "category": "Banking & Regulation",
+    "priority": 1,
+    "age_hours": 8,
+    "score": 24.1
+   },
+   {
+    "title": "Bank CD rates surge above 8% amid liquidity squeeze, rising T-Bill yields",
+    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/above-8-cd-rates-soar-on-tight-liquidity-likely-to-head-higher/articleshow/135477887.cms",
+    "sources": [
+     "ET Markets"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Banking & Regulation",
+    "priority": 1,
+    "age_hours": 1,
+    "score": 20.5
+   }
+  ],
+  "Lending & Credit": [
    {
     "title": "Income Tax Returns: 'How India filed in 2026' - 5 trends that reveal how young investors, salaried earners manage money",
     "url": "https://www.livemint.com/money/personal-finance/income-tax-returns-how-india-filed-in-2026-5-trends-that-reveal-how-young-investors-salaried-earners-manage-money-11793632937864.html",
@@ -136,6 +135,7 @@
     ],
     "source_count": 2,
     "official": false,
+    "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
     "age_hours": 10,
@@ -150,26 +150,28 @@
     ],
     "source_count": 2,
     "official": false,
+    "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
     "age_hours": 19,
     "score": 18.6
+   },
+   {
+    "title": "Axis Bank rolls out festive offers across loans, business banking and credit cards; home loan login fee star..",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRjVlUXVXc0xIRkxGb04zZ3NfOS00aWxac3NscDlLeklGV2NlSEdrUFVlUlRLdFZMR2xtUzBoZXRWd2J0OFJ0SE9MRDU1UlZYLWNRQzN4V1JQWG9RUF9GM3JLN3JZM0Y0TThhSG1FbjQ3NXhQZklUYllKMzVfZDNJMVMtY2tMQ3dKQW5SVXRzUTRQSW51QTFHcFl3WTA2amFuMzVzdkR1Z2x3Q2F1c2pQXzludHRiZWM2aVRnT3BsWTR0bkFUeVBKd3BIdjM5cHBGOFRyU2NuZjdkXzNWU2FiNklDVU5LbGxma2dTOGZ1c0JFVXlGaURQTkFCTWpQNGR2QlBjNG1YUVVfVWx0TW42TnpPS1dSZ0HSAZcCQVVfeXFMTUY1ZVF1V3NMSEZMRm9OM2dzXzktNGlsWnNzbHA5S3pJRldjZUhHa1BVZVJUS3RWTEdsbVMwaGV0VndidDhSdEhPTEQ1NVJWWC1jUUMzeFdSUFhvUVBfRjNySzdyWTNGNE04YUhtRW40NzV4UGZJVGJZSjM1X2QzSTFTLWNrTEN3SkFuUlV0c1E0UEludUExR3BZd1kwNmphbjM1c3ZEdWdsd0NhdXNqUF85bnR0YmVjNmlUZ09wbFk0dG5BVHlQSndwSHYzOXBwRjhUclNjbmY3ZF8zVlNhYjZJQ1VOS2xsZmtnUzhmdXNCRVV5RmlEUE5BQk1qUDRkdkJQYzRtWFFVX1VsdE1uNk56T0tXUmdB?oc=5",
+    "sources": [
+     "bfsi.economictimes.indiatimes.com"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Lending & Credit",
+    "priority": 1,
+    "age_hours": 16,
+    "score": 18.0
    }
   ],
   "Payments & Fintech": [
-   {
-    "title": "Appeal No. 7124 of 2026 filed by Bhupinder Singh",
-    "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7124-of-2026-filed-by-bhupinder-singh_105544.html",
-    "sources": [
-     "SEBI"
-    ],
-    "source_count": 1,
-    "official": true,
-    "category": "Payments & Fintech",
-    "priority": 0,
-    "age_hours": 0,
-    "score": 17.0
-   },
    {
     "title": "UPI: Transforming India's Payment Landscape",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
@@ -179,10 +181,11 @@
     ],
     "source_count": 2,
     "official": false,
+    "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
     "age_hours": 19,
-    "score": 16.5
+    "score": 16.4
    },
    {
     "title": "PB Fintech’s Shares Hit Fresh Low Of ₹928.1, Down 48% Since IRDAI’s Proposed Insurance Overhaul",
@@ -192,53 +195,70 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
-    "age_hours": 15,
+    "age_hours": 16,
     "score": 12.1
+   },
+   {
+    "title": "Inflation and global tensions have no impact as shopping surges: GST collection rises 23%; car sales, UPI p...",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkRPOHZfeVBBd3hNTjNXNHAxNl9LeUtIbVlDbWdyX1ZaR0hXWWl0ODRYWW00dFJTVWtkWmtJcGFQQTlBSUVQRi1uNG5NTVZQT0hUbmE2S3FqRFVZbHFOb0hCZXlsM0pOaG5fUmZ6QWUzRVhCbVdhaVY2Y0RSWkJNUjYtdnQ3QWxWV3I1WGVra1E0WXVuaTVNdVRBRjczR2tJemNMMXpNM3RaQVRscEkwVmJXMnlxcnpNYmJxUXdONVLSAcYBQVVfeXFMTS1zZGdXWFlRRllTYXBPQ0dTS21iNmNyZnp4OWdhRXNCMVFqcjFycktuZVZmMFM5YXdIRTVEdDU3S05Cc2lzT3A2WEVjZFJDeU85bWg0Z3dwREhobGFnR1l0bUhCeEZ0U3NIc3JIQWFSNlp2XzNUck1JQU1qc0J2TjU3aXlRNU50M2p3c19PbmdIaGlXY0ZIT0wyd1RPQThhcFBTLVhqMjZBcnRCc1N2UE12N3VpWlR4VUdtc2FUWVpjSV9WM0JB?oc=5",
+    "sources": [
+     "Bhaskar English"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Payments & Fintech",
+    "priority": 0,
+    "age_hours": 19,
+    "score": 11.4
    }
   ],
   "Investing & Markets": [
    {
-    "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
-    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+    "title": "Sensex surges over 1,200 points, Nifty reclaims 23,400 as RIL leads rally",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-1200-points-nifty-reclaims-23400-as-ril-leads-rally/articleshow/135478423.cms",
     "sources": [
-     "SEBI"
+     "ET Markets"
     ],
     "source_count": 1,
-    "official": true,
+    "official": false,
+    "official_only": false,
+    "category": "Investing & Markets",
+    "priority": 0,
+    "age_hours": 0,
+    "score": 18.9
+   },
+   {
+    "title": "Market wrap:  RIL, Tata Steel, Infosys, ICICI Bank top gainers and losers on Nifty and Sensex on Monday",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-ril-tata-steel-infosys-icici-bank-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135462862.cms",
+    "sources": [
+     "ET Markets"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
     "category": "Investing & Markets",
     "priority": 1,
-    "age_hours": 0,
-    "score": 28.0
+    "age_hours": 13,
+    "score": 18.9
    },
    {
-    "title": "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-reits-invits-to-tap-overseas-investors-through-depository-receipts/articleshow/135478239.cms",
+    "title": "Sebi issues rules for depositary receipts on REITs, InvITs units",
+    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sebi-issues-rules-for-depositary-receipts-on-reits-invits-units/articleshow/135465653.cms",
     "sources": [
      "ET Markets",
-     "Rediff MoneyWiz"
+     "The Economic Times"
     ],
     "source_count": 2,
     "official": false,
+    "official_only": false,
     "category": "Investing & Markets",
     "priority": 0,
-    "age_hours": 1,
-    "score": 22.7
-   },
-   {
-    "title": "LTCG tax relief on the cards? SEBI wants long-term capital gains tax to be removed for foreign investors",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbi1fMVFBTGpqOTctQXpFeVlQSFpGell6R0xyb25SQkNUNmZwQmlGODI4SF9EeVBiSzFfQU52VTBnYlpxV2FzM1VFaXBEa1lvRml3QVB4a0lQUlJYQ2ZxamZwUjRCMmlKaTNZanFHRGxva18zZEFiVmpLbGZsUldsVlk0U2NFemFzN3c3MjRYb0J3Y28tS2c3WWd6YndZMmJpdEVmRjlKbGdPZF9RQ2VuemFjdGZiRXUxUHE1VC1td1JrMEFadGtHRVlEZ3Npd2NiMUt1MU9TaUR4RHZ6dmJQZGcxeWVNUjJQNWowdkhEM1VyZlZaRDI0bG84blhrVlk5OFYzNlFmaVV5anZ1NGwzMzBqYzlORHp50gGeAkFVX3lxTFBPa2tBRXVLZzBCVlMteDl3Ym8yeTEwdklUVUJpNVNUdEVjZkIwa0ZQNjltcVNQenpLRUNMam1QOVZ0ZWFEZWRlUEZVM3BzYnVYdmVuclQ4TU51bVI5U3FQMHpuLUlranc2bDZFQkpHWEd5eEUtTzktT0o0eEFWZFRuc08yLThocDVHYnpseDE4aHBRN0xCVjdnQWhJRjNGUVllU3BwZ2dKeUVKaGdzaFo1eGZ3RElYTHpwa2dxTV9rQXNNM2FnYnkxUS0xRmpGc2lHU0F2UzNDYlZJeXRMSGRCcDk2UlVqU3c5aHRUREdpWFQ0cmw0X1VEZ0ZfQUFsRlFXVTRpNEl6dUtTdG05YzZTMFNpX1Q3NzlzTW1YYlE?oc=5",
-    "sources": [
-     "Business Standard",
-     "The Times of India"
-    ],
-    "source_count": 2,
-    "official": false,
-    "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 17,
-    "score": 19.2
+    "age_hours": 11,
+    "score": 18.6
    }
   ],
   "Insurance": [
@@ -250,6 +270,7 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Insurance",
     "priority": 0,
     "age_hours": 8,
@@ -263,10 +284,11 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Insurance",
     "priority": 0,
-    "age_hours": 23,
-    "score": 12.8
+    "age_hours": 24,
+    "score": 12.7
    },
    {
     "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
@@ -276,6 +298,7 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Insurance",
     "priority": 0,
     "age_hours": 2,
@@ -284,19 +307,6 @@
   ],
   "Tax & Compliance": [
    {
-    "title": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
-    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
-    "sources": [
-     "SEBI"
-    ],
-    "source_count": 1,
-    "official": true,
-    "category": "Tax & Compliance",
-    "priority": 0,
-    "age_hours": 0,
-    "score": 17.0
-   },
-   {
     "title": "ITR deadline pushed to November 21 for audit cases: What it means for businesses and taxpayers",
     "url": "https://www.livemint.com/money/personal-finance/itr-deadline-pushed-to-november-21-for-audit-cases-what-it-means-for-businesses-and-taxpayers-11793619092158.html",
     "sources": [
@@ -304,6 +314,7 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Tax & Compliance",
     "priority": 1,
     "age_hours": 12,
@@ -317,10 +328,25 @@
     ],
     "source_count": 1,
     "official": false,
+    "official_only": false,
     "category": "Tax & Compliance",
     "priority": 2,
     "age_hours": 42,
     "score": 13.8
+   },
+   {
+    "title": "India once had no LTCG tax: How income tax rules on LTCG, STCG and STT changed over the years",
+    "url": "https://www.livemint.com/money/personal-finance/india-once-had-no-ltcg-tax-how-income-tax-rules-on-ltcg-stcg-and-stt-changed-over-the-years-11793613755027.html",
+    "sources": [
+     "Livemint Money"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Tax & Compliance",
+    "priority": 0,
+    "age_hours": 12,
+    "score": 12.7
    }
   ]
  },
@@ -333,6 +359,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 3,
    "age_hours": 62,
@@ -346,6 +373,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 3,
    "age_hours": 56,
@@ -359,6 +387,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 3,
    "age_hours": 71,
@@ -372,6 +401,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 16,
@@ -385,9 +415,10 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 9,
+   "age_hours": 10,
    "score": 19.2
   },
   {
@@ -398,10 +429,11 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 32,
-   "score": 19.2
+   "score": 19.1
   },
   {
    "title": "Reining In Banks' Debt Collectors: RBI's New Rules On Recovery Agents And Borrower Rights",
@@ -411,6 +443,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 21,
@@ -424,6 +457,7 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 16,
@@ -437,9 +471,10 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 46,
+   "age_hours": 47,
    "score": 14.7
   },
   {
@@ -450,10 +485,125 @@
    ],
    "source_count": 1,
    "official": false,
+   "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 71,
    "score": 14.2
+  }
+ ],
+ "official": [
+  {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13749&Mode=0",
+   "sources": [
+    "RBI Notifications"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 0,
+   "score": 31.0
+  },
+  {
+   "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+   "sources": [
+    "RBI Notifications"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 0,
+   "score": 31.0
+  },
+  {
+   "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
+   "sources": [
+    "RBI Notifications"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 0,
+   "score": 31.0
+  },
+  {
+   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+   "sources": [
+    "RBI Notifications"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 0,
+   "score": 31.0
+  },
+  {
+   "title": "Processing of Applications Received Under the Citizen’s Charter Status as on October 31, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63901",
+   "sources": [
+    "RBI Press Releases"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 0,
+   "score": 29.0
+  },
+  {
+   "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+   "sources": [
+    "SEBI"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Investing & Markets",
+   "priority": 1,
+   "age_hours": 0,
+   "score": 29.0
+  },
+  {
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13747&Mode=0",
+   "sources": [
+    "RBI Notifications"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 0,
+   "score": 26.0
+  },
+  {
+   "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63895",
+   "sources": [
+    "RBI Press Releases"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 0,
+   "score": 23.0
   }
  ],
  "feed_status": [
@@ -530,7 +680,7 @@
   {
    "name": "Google News: mutual fund SIP India",
    "ok": true,
-   "note": "15 items"
+   "note": "13 items"
   },
   {
    "name": "Google News: IRDAI insurance",
@@ -550,7 +700,7 @@
   {
    "name": "Google News: NPS PPF India",
    "ok": true,
-   "note": "9 items"
+   "note": "8 items"
   },
   {
    "name": "r/IndiaInvestments",
