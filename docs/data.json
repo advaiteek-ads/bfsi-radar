@@ -1,5 +1,5 @@
 {
- "updated": "03 Nov 2026, 07:01 AM IST",
+ "updated": "03 Nov 2026, 07:08 AM IST",
  "top": [
   {
    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1988 (2011) Taliban Sanctions List: Amendment of 05 Entries",
@@ -135,7 +135,7 @@
     "official": false,
     "category": "Lending & Credit",
     "priority": 0,
-    "age_hours": 9,
+    "age_hours": 10,
     "score": 21.7
    },
    {
@@ -179,7 +179,7 @@
     "category": "Payments & Fintech",
     "priority": 0,
     "age_hours": 19,
-    "score": 16.6
+    "score": 16.5
    },
    {
     "title": "PB Fintech’s Shares Hit Fresh Low Of ₹928.1, Down 48% Since IRDAI’s Proposed Insurance Overhaul",
@@ -210,6 +210,20 @@
     "score": 39.0
    },
    {
+    "title": "Sensex, Nifty tomorrow 3 Nov: Will stock market jump on Sebi's 12.5% foreign ‌investors LTCG tax removal recommendation?",
+    "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-tomorrow-3-nov-will-stock-market-jump-on-sebis-12-5-foreign-investors-ltcg-tax-removal-recommendation-11793629514612.html",
+    "sources": [
+     "Livemint",
+     "Livemint Markets"
+    ],
+    "source_count": 2,
+    "official": false,
+    "category": "Investing & Markets",
+    "priority": 0,
+    "age_hours": 11,
+    "score": 28.5
+   },
+   {
     "title": "SEBI reduces OFS cooling-off period for illiquid private InvITs to 8 weeks",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYm43eERxN0swYnZkNDZuaHFQNTJuaDA5eG0zY0xFek9xblVlOWxTUy1vcG01SUk2bVNXSEtfOWFTTk9kellPTlNCX1dWZlpDTEpSOGpBTDJ2Y1NTcGdINXQxQmQxdk1XeUdPTFhGdmhmM1RSejlSaVVuVS1NTS04RzJqZDNFNEcxZkFGSWN4Mk5LUnVQb0xiSXBkZFVrblVuQVc2SjdlMzJnMlR0WnowYl9sMGdLdjctbExQdzBR?oc=5",
     "sources": [
@@ -222,20 +236,7 @@
     "category": "Investing & Markets",
     "priority": 0,
     "age_hours": 8,
-    "score": 28.4
-   },
-   {
-    "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
-    "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
-    "sources": [
-     "SEBI"
-    ],
-    "source_count": 1,
-    "official": true,
-    "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 0,
-    "score": 28.0
+    "score": 28.3
    }
   ],
   "Insurance": [
@@ -399,7 +400,7 @@
    "category": "Banking & Regulation",
    "priority": 2,
    "age_hours": 20,
-   "score": 16.2
+   "score": 16.1
   },
   {
    "title": "Do due diligence of agents / employee / Tele-callers who are selling you insurance products",
@@ -411,7 +412,7 @@
    "official": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 70,
+   "age_hours": 71,
    "score": 14.3
   },
   {
@@ -441,18 +442,18 @@
    "score": 11.9
   },
   {
-   "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/a-month-after-rbis-rate-hike-banks-start-raising-deposit-rates-as-liquidity-shrinks-bank-of-india-the-latest-to-move/articleshow/135478028.cms",
+   "title": "FD interest rates: This government bank hikes rates, launches new deposit scheme – Check details",
+   "url": "https://www.livemint.com/money/personal-finance/fd-interest-rates-this-government-bank-hikes-rates-launches-new-deposit-scheme-check-details-11793615771493.html",
    "sources": [
-    "ET Markets",
-    "The Economic Times"
+    "Livemint",
+    "Livemint Money"
    ],
    "source_count": 2,
    "official": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 7,
-   "score": 27.2
+   "age_hours": 14,
+   "score": 31.1
   }
  ],
  "feed_status": [
