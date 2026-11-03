@@ -75,25 +75,31 @@ for s in stories:
     community = max(i["community"] for i in s["items"])
     priority = sum(w in blob for w in CFG["priority_words"])
     age_h = max((NOW - lead["created"]).total_seconds() / 3600, 0)
-    score = (10 * len(sources) + (4 if official else 0) + community + 3 * sum(hits.values()) + 5 * priority) / (1 + age_h / 48)
+    score = (10 * len(sources) + (5 if official else 0) + community + 3 * sum(hits.values()) + 5 * priority) / (1 + age_h / 48)
+    official_only = all(i["official"] for i in s["items"])
     out_items.append(dict(title=lead["title"], url=lead["url"], sources=sources[:4], source_count=len(sources),
-                          official=official, category=max(hits, key=hits.get), priority=priority,
+                          official=official, official_only=official_only, category=max(hits, key=hits.get), priority=priority,
                           age_hours=round(age_h), score=round(score, 1)))
 
 out_items.sort(key=lambda x: -x["score"])
-top = out_items[:CFG["top_count"]]
+
+# Official-only notices (RBI/SEBI) get their own section so they don't crowd the news
+regulatory = [i for i in out_items if i["official_only"]][:CFG.get("official_count", 8)]
+news = [i for i in out_items if not i["official_only"]]
+
+top = news[:CFG["top_count"]]
 used = {i["url"] for i in top}
 industry = {}
 for cat in CFG["categories"]:
-    rows = [i for i in out_items if i["category"] == cat and i["url"] not in used][:CFG["per_category"]]
+    rows = [i for i in news if i["category"] == cat and i["url"] not in used][:CFG["per_category"]]
     industry[cat] = rows
     used |= {i["url"] for i in rows}
-secondary = sorted([i for i in out_items if i["url"] not in used and i["priority"] > 0],
+secondary = sorted([i for i in news if i["url"] not in used and i["priority"] > 0],
                    key=lambda x: (-x["priority"], -x["score"]))[:CFG["secondary_count"]]
 
 ist = NOW + dt.timedelta(hours=5, minutes=30)
 Path("docs").mkdir(exist_ok=True)
 Path("docs/data.json").write_text(json.dumps(dict(
     updated=ist.strftime("%d %b %Y, %I:%M %p IST"), top=top, industry=industry,
-    secondary=secondary, feed_status=status), indent=1, ensure_ascii=False), encoding="utf-8")
+    secondary=secondary, official=regulatory, feed_status=status), indent=1, ensure_ascii=False), encoding="utf-8")
 print(f"Done: {len(out_items)} BFSI stories; {sum(s['ok'] for s in status)}/{len(status)} feeds working")
