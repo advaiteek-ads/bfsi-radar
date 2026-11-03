@@ -32,6 +32,7 @@ details{margin-top:36px;color:var(--muted);font-size:13px}
   <h2>Top 5 trending right now</h2><div id="top"></div>
   <h2>Industry-specific topics</h2><div id="industry"></div>
   <h2>Secondary topics worth knowing</h2><div id="secondary"></div>
+    <h2>Official regulatory updates (RBI, SEBI)</h2><div id="official"></div>
   <details><summary>Feed health (for the owner)</summary><div id="health"></div></details>
 </main>
 <script>
@@ -59,6 +60,8 @@ fetch("data.json?"+Date.now()).then(function(r){return r.json();}).then(function
   });
   var sec=document.getElementById("secondary");
   d.secondary.length ? d.secondary.forEach(function(i){sec.appendChild(card(i));}) : empty(sec);
+    var off=document.getElementById("official");
+  (d.official||[]).length ? d.official.forEach(function(i){off.appendChild(card(i));}) : empty(off);
   var h=document.getElementById("health");
   (d.feed_status||[]).forEach(function(s){
     var p=el("div",s.ok?"ok":"bad",(s.ok?"OK: ":"FAILED: ")+s.name+" ("+s.note+")"); h.appendChild(p);
