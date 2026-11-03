@@ -75,7 +75,7 @@ for s in stories:
     community = max(i["community"] for i in s["items"])
     priority = sum(w in blob for w in CFG["priority_words"])
     age_h = max((NOW - lead["created"]).total_seconds() / 3600, 0)
-    score = (10 * len(sources) + (15 if official else 0) + community + 3 * sum(hits.values()) + 5 * priority) / (1 + age_h / 48)
+    score = (10 * len(sources) + (4 if official else 0) + community + 3 * sum(hits.values()) + 5 * priority) / (1 + age_h / 48)
     out_items.append(dict(title=lead["title"], url=lead["url"], sources=sources[:4], source_count=len(sources),
                           official=official, category=max(hits, key=hits.get), priority=priority,
                           age_hours=round(age_h), score=round(score, 1)))
