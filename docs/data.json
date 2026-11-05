@@ -1,5 +1,5 @@
 {
- "updated": "05 Nov 2026, 09:49 AM IST",
+ "updated": "05 Nov 2026, 01:45 PM IST",
  "top": [
   {
    "title": "RBI dismisses fake alert on shortage of Rs 10, Rs 20 and Rs 50 notes ahead of Diwali",
@@ -15,8 +15,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 1,
-   "score": 75.7
+   "age_hours": 5,
+   "score": 70.1
   },
   {
    "title": "IRDAI mandates four-layer motor cover structure from 15 December",
@@ -24,16 +24,16 @@
    "sources": [
     "(Re)in Asia",
     "BusinessLine",
-    "GK Today",
-    "Outlook Money"
+    "Outlook Money",
+    "Telangana Today"
    ],
-   "source_count": 5,
+   "source_count": 4,
    "official": false,
    "official_only": false,
    "category": "Insurance",
    "priority": 0,
-   "age_hours": 4,
-   "score": 48.7
+   "age_hours": 8,
+   "score": 36.7
   },
   {
    "title": "New motor insurance rules from December 15: Car, bike owners can choose 4 types of cover",
@@ -48,43 +48,56 @@
    "official_only": false,
    "category": "Insurance",
    "priority": 1,
-   "age_hours": 7,
-   "score": 38.6
+   "age_hours": 11,
+   "score": 36.0
   },
   {
-   "title": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
-   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
+   "title": "SEBI eases KYC rules for NRIs, OCIs; digital onboarding allowed from December 3",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcEs4OHdhaFE2cl9kdlpIWnJ3WkljWFFCU3B3RzFTWVJQZ09yUTdqVDFETl9hc24zenJhV1lFcUVWOEx1N1Q1YU1qclZSZER5dGxKU2MzeVBCcXBEdDBfU2FEcFRxZzlTcmhTRnZTMkc2R3QxcEs3OTJwcXBKOG0tM0ZRX1hOSVNJQ1d4d0FSQmEzZTJFdFF5djlBTnJwRlJhTi1pSlk4dFN1dEtPRURhZWFoVnhTQ3RJZ19mT1UzeHczRjhjNndLQXdXNGVQQi02ZEE0MGdwNzFKUXZzZVd6MGt4aUtUOGlWSDlIZWhrUQ?oc=5",
    "sources": [
     "Business Standard",
-    "ETLegalWorld.com",
-    "SEBI"
+    "The New Indian Express",
+    "Upstox"
    ],
    "source_count": 3,
-   "official": true,
-   "official_only": false,
-   "category": "Investing & Markets",
-   "priority": 0,
-   "age_hours": 0,
-   "score": 38.0
-  },
-  {
-   "title": "Home loan interest rates for Diwali 2026: Planning to buy a house? Check rates starting at 7.25% across major banks",
-   "url": "https://www.livemint.com/money/personal-finance/home-loan-interest-rates-for-diwali-2026-planning-to-buy-a-house-check-rates-starting-at-7-25-across-major-banks-11793814557296.html",
-   "sources": [
-    "Livemint",
-    "Livemint Money"
-   ],
-   "source_count": 2,
    "official": false,
    "official_only": false,
-   "category": "Lending & Credit",
-   "priority": 1,
-   "age_hours": 10,
-   "score": 32.9
+   "category": "Banking & Regulation",
+   "priority": 0,
+   "age_hours": 0,
+   "score": 35.8
+  },
+  {
+   "title": "Lost money to a UPI scam? The first 3 days could decide how much you can recover",
+   "url": "https://economictimes.indiatimes.com/wealth/save/lost-money-to-a-upi-scam-the-first-3-days-could-decide-how-much-you-can-recover/articleshow/135537164.cms",
+   "sources": [
+    "ET Wealth"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 3,
+   "age_hours": 4,
+   "score": 31.3
   }
  ],
  "industry": {
   "Banking & Regulation": [
+   {
+    "title": "Cert-In warns banks, fintech firms of AI-driven fund transfer fraud",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUZpb05qc2pSSjZxbUlVSlMxdXptZGlHN0N3SDFsdDMzREhRMjZoWV9QYWVGd1cwckc5dG5DQ211VVhGM1Nid0pDTUN1WjV0bXBBVmNPTkxwT05Ebk9PVTRJNnFqaHVfa19CMUtKNWtaYkhBT1ZCMlg0bEt1SjFMUWNNQWhCU3VBTk9wNEhVb3J1N19NVy1fLXRCa2gwMUxlTVVUekFQOTcwMWpKd1B5TEN5X2tJalFfMGc5Y1dXS2V2eHN1dHBiZTJNeUZiVlQtR3ZN0gHYAUFVX3lxTE5IeUw4ZVFGN1NyN05rNkdzaUI4aUJQNzU0UzgybDZOQjdmLVRaS1dlRVg5ZEl0V0tZN213QVFrOXZlc1BNUHI3NlhaanVjeVkyeEJHVmdQaHdjODRJT3hISTkzQ09XQWhHMzZrMExMUTd5ejI5WFZ0YkpEUFdZZFZzcGtMS0xsUnIzajAxWmlhS2RGcXBzSV9yZDBPSW1CMkVCT24xTjZFMjFod3k2UzJFdWstRGgySFVBUWQtV2hnZ3RQSDg3ekttTnZzTVZ1ZDZKdUl6S3ZVRw?oc=5",
+    "sources": [
+     "Business Standard"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Banking & Regulation",
+    "priority": 2,
+    "age_hours": 3,
+    "score": 24.4
+   },
    {
     "title": "CBI Books Case Over Alleged $10 Mn Fraud In India Exim Bank",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGJncS1CYjByakIzLWZiakFYX2hwOWt2c1Foa2dyZzhYRGF6SXBkWEhtcS0tMVc1MTJOM1hud05NdWZLbS1tdGd4WW83THd1TU43d29McDFNTm5oQk9KQmRobVRpbDh3RE1YMHI4OFE2ZVRlSDFweDRnNDZobkFObUFUMEFnbEFWVDNDWGVZRzk4Tk5fQ2RyYlpwMFdWdzdCMmFQNg?oc=5",
@@ -97,23 +110,8 @@
     "official_only": false,
     "category": "Banking & Regulation",
     "priority": 2,
-    "age_hours": 13,
-    "score": 25.9
-   },
-   {
-    "title": "SEBI relaxes KYC rules for NRIs, OCIs: Can overseas investors now onboard digitally from abroad? Decoded",
-    "url": "https://www.livemint.com/market/stock-market-news/sebi-relaxes-kyc-rules-for-nris-ocis-can-overseas-investors-now-onboard-digitally-from-abroad-decoded-11793803371003.html",
-    "sources": [
-     "Livemint",
-     "Livemint Markets"
-    ],
-    "source_count": 2,
-    "official": false,
-    "official_only": false,
-    "category": "Banking & Regulation",
-    "priority": 0,
-    "age_hours": 13,
-    "score": 22.9
+    "age_hours": 17,
+    "score": 24.3
    },
    {
     "title": "CBI arrests first PNB employee in Rs 10 crore Greater Noida bank fraud case",
@@ -127,14 +125,14 @@
     "official_only": false,
     "category": "Banking & Regulation",
     "priority": 2,
-    "age_hours": 29,
-    "score": 22.4
+    "age_hours": 33,
+    "score": 21.3
    }
   ],
   "Lending & Credit": [
    {
-    "title": "New motor insurance rules December 15: What's changed? 5 things car &amp; bike owners must check before renewal",
-    "url": "https://www.livemint.com/money/personal-finance/new-motor-insurance-rules-december-15-whats-changed-5-things-car-bike-owners-must-check-before-renewal-11793796962227.html",
+    "title": "Home loan interest rates for Diwali 2026: Planning to buy a house? Check rates starting at 7.25% across major banks",
+    "url": "https://www.livemint.com/money/personal-finance/home-loan-interest-rates-for-diwali-2026-planning-to-buy-a-house-check-rates-starting-at-7-25-across-major-banks-11793814557296.html",
     "sources": [
      "Livemint",
      "Livemint Money"
@@ -144,44 +142,73 @@
     "official_only": false,
     "category": "Lending & Credit",
     "priority": 1,
-    "age_hours": 15,
-    "score": 23.7
+    "age_hours": 14,
+    "score": 30.8
    },
    {
-    "title": "China’s Copper Squeeze Deepens as Buyers Scramble for Spot Metal",
-    "url": "https://www.livemint.com/market/chinas-copper-squeeze-deepens-as-buyers-scramble-for-spot-metal-11793847941597.html",
+    "title": "Axis Bank festive offers 2026: 100% car loan funding, 30-minute disbursal, EV discounts and other benefits",
+    "url": "https://www.livemint.com/money/personal-finance/axis-bank-festive-offers-2026-100-car-loan-funding-30-minute-disbursal-ev-discounts-and-other-benefits-11793859480354.html",
     "sources": [
-     "Livemint Markets"
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Lending & Credit",
-    "priority": 0,
-    "age_hours": 1,
-    "score": 15.6
+    "priority": 1,
+    "age_hours": 0,
+    "score": 24.0
    },
    {
-    "title": "Sunday PropTech acquires 89-room hotel in Kolkata, marks entry into city",
-    "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
+    "title": "New motor insurance rules December 15: What's changed? 5 things car &amp; bike owners must check before renewal",
+    "url": "https://www.livemint.com/money/personal-finance/new-motor-insurance-rules-december-15-whats-changed-5-things-car-bike-owners-must-check-before-renewal-11793796962227.html",
     "sources": [
-     "ET Markets"
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Lending & Credit",
-    "priority": 0,
-    "age_hours": 13,
-    "score": 12.5
+    "priority": 1,
+    "age_hours": 19,
+    "score": 15.1
    }
   ],
   "Payments & Fintech": [
    {
-    "title": "Telangana: UPI’s success story faces a cash test on the streets",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXc5MWJFZ1Q5R0hDNDdLUmFES01ndURzajZTVmJtUVJoSTU5eGkyVnQ2YUdQNmFrazhBQ0VFS0VnNlFDeDczS0ZiSnFuUFVGbVdRQlpxQm90bXkydnFtWDFfQ1dPRWRiRjFxcXdsTGk1YVdDMkh6MHM5TmJMeVg0T0JOaVpBcTJXZ19FcFFOM1VpVk9EODZTalJFekZORzZZbzRIalZuZGYzbjRGcURsZ293ZGU2dFR4OTZvc09zTWTSAc4BQVVfeXFMTzhkeUg3WEgtalp5dFN1cWk0UTN3MEhRMnBqQUs4NG1ZWmNXR2hXYmJpdWNqRWlvc1UwOW9NcUl1NmNJNDdGUUh1T25MNVNZalB2ejBERHVZTzhFN1ZfaG4yalN4cl9Yc3R5Q18xQW5nSlgxa1NrQW5welUyakMtcHkzd21YMk1tQXhQVmhWLUt1MFlOLU51MnJoYS1OMFNuODZjTmZHdV9XMlZtT19SY1F1OVpGcWh1WHhkUFJiZlZFam5GSmJleE9GSjUtVmc?oc=5",
+    "title": "Dubai Duty Free to offer discounts on UPI payments",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLXlFa05vWXdaMlZYakZubXdoWkxHSXVFazV2MkVKUFJrV0Q5RHlKcXV4cTgxMXFrcS1hOUV0RS1GaUNRV3k0cEV5YlAxWmNyOFIwS3pFWFl4VlJFRS1ndWxMX3hrcjhFa0xMSDBRWG13SFBxSE03dDlrbnJGbGpVZGZUZmFtUEZVamZMdV9hYUUyaWs3S2laRmZkc1VGNVY4NFhZYkdSTjVSZTVUUXliNkF4UzVTRkNJb0k4QmZ4UENlQVZXdUUtX3puRjZOaE9PZ1E?oc=5",
     "sources": [
-     "The New Indian Express"
+     "CNBC TV18",
+     "The Times of India"
+    ],
+    "source_count": 2,
+    "official": false,
+    "official_only": false,
+    "category": "Payments & Fintech",
+    "priority": 0,
+    "age_hours": 0,
+    "score": 22.8
+   },
+   {
+    "title": "Indian travellers in Dubai can get up to AED 100 off at Dubai Duty Free using UPI",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSjVtZEpzX0ZyejdILVE5MFF3ajM3eUItdnlNcnRHN3ExQ2NaNDhNMkxJUHBWSVphY0ROazU1VjVqWGZ4SVJOZi04X0E2RHlvbmVSbS1pbDVKazRkVHBwd3hqTkk2cGtQaHJFY1huQ3J0WWo4SWFkbmRyeDBQTXpwRklFb0dlTnlaNWRCeGJkaEJHVVBHYjRrT2tCSFFUVXFGNUN1VGs0T3NwV2hzVFZoNFRwLUJ2WkJmR1NMWDkxelNOd3pkc1FaUFE3dkJXZ0NoTlNIekRqbEhfcUsxUlNZ0gHkAUFVX3lxTE1KUloteU52NlZvRkhsRG1WaDFUdjUzXzA4OXB6UmNyZ3I4WHpDaVJTVDdKSy1yV3BqaDRTWGlrVGNCclpZcHpCeFM5NkJMZEhyMF85QmVGbkhLVkxZTWZjei1KbGxUY3Z6LWh4Z3QtdnUtRHNXaG1jN1dneUd2RjBWdW90MnFkZnVOTV9rNEF2TGxETmpXUi1QQkpabnl4VWZLenJmS0RFdl9rM1BlZGdSSnVENGNJRmRNSGZCOXNCZVFyT0QyOVpFYnZDbElIcnlMZExMN1pKLWtaVjBPcFF5NU45dA?oc=5",
+    "sources": [
+     "The Economic Times"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Payments & Fintech",
+    "priority": 0,
+    "age_hours": 1,
+    "score": 12.8
+   },
+   {
+    "title": "Indian travellers can now enjoy 10% discount at Dubai Duty Free by paying through UPI",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjVod0VEOTNqQ2l6cTd0SjlRbE9GdXZ3clF0d3BOVVB3T0d1OF9wVl8tSjQyZzhHSzJCTHlQclR1clJ4UFN0N29iSU9XM1dpV09CYmZ1dDJ4aUd0WEpDOTI5NE9jWk41aWQxd25xUW1ObW1WNHZyMzM0T2xTQTd4VkJ3UER6eE1XZHQwaTQ1M3VJMG1YakhYMUwzUEFKRktuUU4wTjNLNjN2TjBxNDltTG5UUUhpcU0ycURRWnItZDdKdVhHdHZfdHIzODVSV1FYTms4dE51OXR1TndaQ05V?oc=5",
+    "sources": [
+     "Zawya"
     ],
     "source_count": 1,
     "official": false,
@@ -190,40 +217,27 @@
     "priority": 0,
     "age_hours": 1,
     "score": 12.7
-   },
-   {
-    "title": "Most small vendors will reduce UPI acceptance if MDR is implemented: ISB study",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHZRUVRORm04MVRDSGUwbHNQcEhPSzcxQjZua2FFWjZpdENjMDlqVG91Yk1kOElPc09oSmJNU0VsMURuRzhLYVd5MzZOMklLUHo3dmlnN2lrX19Sekh5MUNGQlVRTngzZS1nNzFVWHlHLW02YXhzd1dQbU1vT3hHUkRxaFlvQzlxYzkzV0JWcEZGVVZDYUU2WE1OcTVNTlZ2Qy1CbHFnVUJoNXVLVWtmU3R1RXgzd1ltdy05dFV4LURpY1hfN1dXVjdxZ3c3NUs4bzlpVkJFTdIB5AFBVV95cUxQLXhKdUJNUE8wR3pjZkZjR3FmVEM5SWx4R0I5Zjc3UFZqSHNuNjI1ajUtWWN1eUc0Ui1FWkNkUVVXNGMwMGVZTmwwTktYRkJVeWJOamlCQVVnRk9ncEJ4Yll3aTVhSktzYkFtREFHajctMUpmV0o3ZkVZZGtHYk9BbDIwTWtpWXVnTy1FazBhUFZWdUNUUFhCNzNlSU81XzZRUmcwVWY5X2pCYWY3OUNtLTN4VkJlRWUwVTNESE4xTm5DTGhTcUFBdm13YXFlX00xZ1VoS3ZvUVltT240YjNQZVZUaFg?oc=5",
-    "sources": [
-     "Fortune India"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Payments & Fintech",
-    "priority": 0,
-    "age_hours": 2,
-    "score": 12.6
-   },
-   {
-    "title": "RIOD Logic opens EV charger plant, launches dynamic UPI payments",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWk5WMDdmM2lfbER5aDdUQk1YVFlWazdJZlBzWkp1N000OEJScWMwbTIzTTU3d2t2TE8wVzBGNEJaQjlhQ3hleGk3VlFIVjdFN0hsc2FfMHBsUVVTNWhEZm80dUdiR2FwbDRUQ0VHZEFfZFFMZ2N1MFhicWRsMnhBVE9rbDZveDNOY0k2MlVDRHpnWGhmQ3hBQkFhakFRU0R3a0dBUDJjdFo1YXVTVHkyRkZRVkhGX1h0M0R2X3QwZ0NDNXYtbG03U1ktM3NGWXJ1UjhPZzd1MGZCUkhBd3lGetIB5AFBVV95cUxOZUtuMnRvS3dxT3lvYmFVUjNkYjlwLWl3ekJnY0JsaUpxbGxvVkZfMllkajk5c2QwR0lCbUJmUDVTQ2w1WTZLeVJGTWpVa3YwbWpvbDM1Z3E5My1YZUNEZUU2dk5COVBxUTBFTnhtX2pmclFqLXBaRFF4NVhxWExkNXFVQXFPMDd5YWpWYVBNOFBNUlNGXzRBQXFHS3ZsbXdWSmt4alZDdm1NUmF2VlFJMWNPTjhfS3ZQOUVWUmUzZ1JfcXg4OWxQbzJrZVB6T19UQW9yVGpzZDNsRXB1ZFloU0RpbjY?oc=5",
-    "sources": [
-     "electronics.economictimes.indiatimes.com"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Payments & Fintech",
-    "priority": 0,
-    "age_hours": 2,
-    "score": 12.4
    }
   ],
   "Investing & Markets": [
    {
-    "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex rockets over 1,400 pts, Nifty above 24,350; bank, financial indices jump over 2%",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-bse-lenskart-share-price-05-november-2026/liveblog/135555859.cms",
+    "title": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
+    "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
+    "sources": [
+     "Business Standard",
+     "SEBI"
+    ],
+    "source_count": 2,
+    "official": true,
+    "official_only": false,
+    "category": "Investing & Markets",
+    "priority": 0,
+    "age_hours": 0,
+    "score": 28.0
+   },
+   {
+    "title": "Sitaram Denims India files IPO papers with Sebi",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
     "sources": [
      "ET Markets"
     ],
@@ -231,9 +245,9 @@
     "official": false,
     "official_only": false,
     "category": "Investing & Markets",
-    "priority": 1,
-    "age_hours": 3,
-    "score": 22.7
+    "priority": 0,
+    "age_hours": 1,
+    "score": 18.5
    },
    {
     "title": "US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views",
@@ -246,23 +260,8 @@
     "official_only": false,
     "category": "Investing & Markets",
     "priority": 0,
-    "age_hours": 3,
-    "score": 17.8
-   },
-   {
-    "title": "NPS rule changes from December 1, 2026: PFRDA clarifies how NPS schemes should be named and displayed on PoP platforms",
-    "url": "https://economictimes.indiatimes.com/wealth/save/nps-rule-changes-from-december-1-2026-pfrda-clarifies-how-nps-schemes-should-be-named-and-displayed-on-pop-platforms/articleshow/135538203.cms",
-    "sources": [
-     "ET Wealth",
-     "The Economic Times"
-    ],
-    "source_count": 2,
-    "official": false,
-    "official_only": false,
-    "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 17,
-    "score": 17.1
+    "age_hours": 7,
+    "score": 16.5
    }
   ],
   "Insurance": [
@@ -277,39 +276,53 @@
     "official_only": false,
     "category": "Insurance",
     "priority": 1,
-    "age_hours": 24,
-    "score": 20.1
+    "age_hours": 28,
+    "score": 19.0
    },
    {
-    "title": "ManipalCigna Urges Families To Review Health Insurance Coverag",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc3cxQWF0aldnUEc5N1NjcjlqSXdFeHluQXI5OXAtenBFUk01Sy1xQ3BWeW4zUWNTejlHbE1NMk9ETFZ1VVRHb3ItUmNqM3RXU09OQjd5R2ROTTNsS29IV0hwcV9XN0w2YWlPQjJJZllJbzNMOWNSTG1YSUNQRjk5SEtuS0lOZ0xUeGo1TnZBTm1NWnF1Vl9UclJfc3A3aDZ5dUNzcXZWNUF5aW0zUkxDN2J5VHoxSGhDelBTM19DTDRCU0U0alozd0dSa3RveUF5Q3B3cTF1S3Y2STQtbTdBaWRJUHFzb3ZtTmdReFR3?oc=5",
+    "title": "Gold rate today Sangli Nov 5: Check latest prices ahead of Dhanteras 2026",
+    "url": "https://www.livemint.com/money/gold-rate-today-sangli-nov-5-check-latest-prices-ahead-of-dhanteras-2026-trump-loss-us-election-results-impact-11793864132014.html",
     "sources": [
-     "Passionate In Marketing"
+     "Livemint Money"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Insurance",
+    "priority": 1,
+    "age_hours": 0,
+    "score": 17.9
+   },
+   {
+    "title": "Want to gift someone insurance? Check these rules before paying",
+    "url": "https://www.livemint.com/money/personal-finance/can-you-pay-insurance-premium-for-someone-else-rules-11793845831648.html",
+    "sources": [
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Insurance",
     "priority": 0,
-    "age_hours": 2,
-    "score": 12.5
-   },
-   {
-    "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation",
-    "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation/articleshow/135556154.cms",
-    "sources": [
-     "ET Markets"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Insurance",
-    "priority": 0,
-    "age_hours": 2,
-    "score": 12.5
+    "age_hours": 3,
+    "score": 17.9
    }
   ],
   "Tax & Compliance": [
+   {
+    "title": "GSTR-9 Due Date For FY 2025-26: Latest Update",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlMwV3BETFg1d0NXLXQ2b2FqNjRkczVGZk81TFhiemNZb1F5N1pDV1R1azIxNlRnQ1hVREdiazFsdTFnbHFBdUZ6NGtTSVg5U3hQZUpsR3R2U2NCc2wwV3VUWWpzUXVGLWdvMVdmcWh0QWp2ZW10M2s5b3ZWM1dmZUREemhMV1F2WkJCOWpELVA3M0k?oc=5",
+    "sources": [
+     "CAclubindia"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Tax & Compliance",
+    "priority": 0,
+    "age_hours": 3,
+    "score": 12.4
+   },
    {
     "title": "Gold jewellery at home: How much can you keep without fear of Income Tax seizure?",
     "url": "https://economictimes.indiatimes.com/wealth/tax/gold-jewellery-at-home-on-diwali-dhanteras-how-much-can-you-keep-without-fear-of-income-tax-seizure/articleshow/135530721.cms",
@@ -321,8 +334,8 @@
     "official_only": false,
     "category": "Tax & Compliance",
     "priority": 1,
-    "age_hours": 19,
-    "score": 12.9
+    "age_hours": 23,
+    "score": 12.2
    },
    {
     "title": "Physical gold vs gold ETF: Which can be more tax-efficient for investors?",
@@ -335,22 +348,8 @@
     "official_only": false,
     "category": "Tax & Compliance",
     "priority": 0,
-    "age_hours": 44,
-    "score": 11.5
-   },
-   {
-    "title": "November 2026 income tax calendar: Check key deadlines for TDS payments, tax certificates and ITR filing",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelZXb253d2dxZ3h4S2pLdEtaU0FCNV82cTJsUHNudmc0em00d185NTJqQi1nMG02dzFwOXY1bGoxbTc2cjRXM0lkcjVEQmdzWUx4bFZpLXNGNzVEWjJXdGg1b1FJbWFxa0hETjVSMUQ0cEtQZmZVNlNBbzctWjh2MlRvR21vSW9VSGpqZ2RKb25CZjd3S3VVVHJFcjBhYm5oVVUzdVpXQXBNaEJwRlV2Q0NRamJIbUN0TllITE9YSXJjdDF1TW1vZ0dhTkhlQVlJZmR1WEFqLVVtNVlva25pSVJjVXVyM3pYaFU3LVc0SGo1WS13d1YxOXpQYmZrN2PSAYQCQVVfeXFMTXNlNmdDV3VwSlNBRjJwd3h0ZHFlbHZBYVFLdkFSb3pBaVZGdm5Rbkp6el82ckhBZm9kX2s4RzBoalprRUdtdUhhWTZFVUgyOU9JNU5WblZILWp3VTlOMGY3dWhkZmtGcWJQTWh5SW1sQ0NYZGszMHcxZHBhaWhobUpYa3VoMlVBSEZhbDJVSGZ5VE9ZT2lqNnFPS3ladEU0SE1zNFZ3VzZNZVVTR3lIS1pLbWxWTV9CYTNhSy14TEdnOTBld0x1ODVDVGI3bWlKM3lnM1Rnb2QyVlJHNlhpMXRCZHloS1RqYXNwM1VZTmRKTTNIcWIyOGtnUmtwdXRSenhmZmM?oc=5",
-    "sources": [
-     "Livemint"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Tax & Compliance",
-    "priority": 1,
-    "age_hours": 68,
-    "score": 11.1
+    "age_hours": 48,
+    "score": 11.0
    }
   ]
  },
@@ -366,8 +365,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 10,
-   "score": 21.5
+   "age_hours": 14,
+   "score": 20.1
   },
   {
    "title": "Inside Bank Frauds: Employee Logins, Data Leaks and the Rising Risk to Customer Deposits",
@@ -380,8 +379,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 12,
-   "score": 18.3
+   "age_hours": 16,
+   "score": 17.2
   },
   {
    "title": "CBI files case against UK firm, former directors in USD 10 million Exim Bank fraud",
@@ -394,8 +393,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 18,
-   "score": 16.7
+   "age_hours": 22,
+   "score": 15.7
   },
   {
    "title": "CBI Registers Case Over ₹63 Crore India Exim Bank Loan Fraud Involving UK Firm",
@@ -408,8 +407,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 20,
-   "score": 16.3
+   "age_hours": 24,
+   "score": 15.4
   },
   {
    "title": "CBI files FIR in $10 mn 'fraud' in Exim Bank involving UK-based company",
@@ -422,8 +421,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 20,
-   "score": 16.3
+   "age_hours": 24,
+   "score": 15.4
   },
   {
    "title": "CBI Uncovers USD 10 Million Fraud At India Exim Bank",
@@ -436,36 +435,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 20,
-   "score": 16.2
-  },
-  {
-   "title": "No Deliberate Evasion, No Fine? ITAT Delhi Voids Penalty Over Bank Interest Omission In Tax Return",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUnVZN19FTlJ4ekt2UVFfdTlXNWZuM3BaazJwa1FyTkJzUWJBdDRlN0lqaHVwMEROYnQwQTNTdEY4VmlkSXBzUk9MQ2NZWjQ3MW1iQWlweWpqX19fNG42SUsyekF4bVo2akNzbU1jb2FfajRheGVaSlZvc0lldVF3d21veldvdUN6dlBqaHJDc014bExjTi1rZDlmT3J4MVpWVVA4WjhFODY5d2dDSkdJVThkTFZaQ1V5R3pPZXlMZml1cVVGS3hHY0FMNC1obFZucXlueVJn0gHWAUFVX3lxTFBSdVk3X0VOUnh6S3ZRUV91OVc1Zm4zcFprMnBrUXJOQnNRYkF0NGU3SWpodXAwRE5idDBBM1N0RjhWaWRJcHNST0xDY1laNDcxbWJBaXB5ampfX180bjZJSzJ6QXhtWjZqQ3NtTWNvYV9qNGF4ZVpKVm9zSWV1UXd3bW96V291Q3p2UGpockNzTXhsTGNOLWtkOWZPcngxWlZVUDhaOEU4Njl3Z0NKR0lVOGRMVlpDVXlHek9leUxmaXVxVUZLeEdjQUw0LWhsVm5xeW55Umc?oc=5",
-   "sources": [
-    "Outlook Money"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 66,
-   "score": 10.9
-  },
-  {
-   "title": "Reining In Banks' Debt Collectors: RBI's New Rules On Recovery Agents And Borrower Rights",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUJkWWxaU0FRRWZUbkRBQ0o3R2hzNm5nNjNDalJMLUI4YWduZ1RpRHVjeDlzeWcweS01aGVBMW9tbVNWOGNlSjExd0FRZWpYbXU2WVM4SnhuOEZZWkZrX1JKdUNlWWpkejZtTnVVdGQ5NU9QR3NzdGhsZG1xVDgzUnIwNFJOa2xuamRvVzdWSFNrakl6MWtwWGlFZkl0VjNvNXJzQWpfNGFLYVZHcTFSV0hZazRuQmpaUHBZeENSMVFkd9IBzwFBVV95cUxPVEJncGpqSTJEdFo5QzhKV1E0V3lPdTVwUmRmWDFtcDZSVTU1cDBGWnVQaG8xZDhVZXEwVGIxTmQ4OEx4N2ZvcTZRQlF5Q3BIRDEyNWE4Zzk5M3NtVE55SFJWczEwMlFvWEJ3X1lfYS1nZXgxV2NPelRwcjlJYWREUm5OTWNVWlhaNnE3enZJei1ZeHRQWkd2M0hMdDcxbE52NzdUSDQtSW1jMDE1dzlaZkFJcXZUZlJ0WWd0S1VTQWdhRHlhQkdkWjZLN0wtWkE?oc=5",
-   "sources": [
-    "Outlook Money"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 71,
-   "score": 10.5
+   "age_hours": 24,
+   "score": 15.3
   },
   {
    "title": "A ₹2.10 Crore Fraud, A Senior Citizen And Why Supreme Court Wants Banks To Pay Digital Arrest Fraud Victims As ₹647 Crore Is Lost In 8 Months",
@@ -478,14 +449,14 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 67,
-   "score": 9.6
+   "age_hours": 71,
+   "score": 9.3
   },
   {
-   "title": "Gold ETFs fall 4% in a month ahead of Dhanteras 2026: Is this a buying opportunity? Experts weigh in",
-   "url": "https://www.livemint.com/market/commodities/gold-etfs-fall-4-in-a-month-ahead-of-dhanteras-2026-is-this-a-buying-opportunity-experts-weigh-in-11793846746960.html",
+   "title": "HDFC Bank increases FD interest rates by up to 50 bps: Senior citizens can now earn up to 7.20%; check revised rates",
+   "url": "https://economictimes.indiatimes.com/wealth/invest/hdfc-bank-increases-fd-interest-rates-by-up-to-50-bps-senior-citizens-can-now-earn-up-to-7-20-check-revised-rates/articleshow/135560069.cms",
    "sources": [
-    "Livemint Markets"
+    "ET Wealth"
    ],
    "source_count": 1,
    "official": false,
@@ -494,6 +465,34 @@
    "priority": 1,
    "age_hours": 1,
    "score": 20.6
+  },
+  {
+   "title": "US Midterm Election results lift banking, financial stocks - SBI Cards, Bajaj Finance, Axis, ICICI Bank surge up to 6%",
+   "url": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-lift-banking-financial-stocks-sbi-cards-bajaj-finance-axis-icici-bank-surge-up-to-6-11793856386492.html",
+   "sources": [
+    "Livemint Markets"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 2,
+   "score": 20.0
+  },
+  {
+   "title": "Cracker stocks this Diwali! Axis Direct selects 12 technical stock with 48% upside potential for Samvat 2083",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/cracker-stocks-this-diwali-axis-direct-selects-10-technical-stock-with-48-upside-potential-for-samvat-2083/slideshow/135560312.cms",
+   "sources": [
+    "ET Markets"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 4,
+   "score": 19.5
   }
  ],
  "official": [
@@ -568,20 +567,6 @@
    "score": 31.0
   },
   {
-   "title": "Constitution of the Technical Consultative Committee for Financial Markets (TCCFM)",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63914",
-   "sources": [
-    "RBI Press Releases"
-   ],
-   "source_count": 1,
-   "official": true,
-   "official_only": true,
-   "category": "Banking & Regulation",
-   "priority": 1,
-   "age_hours": 0,
-   "score": 26.0
-  },
-  {
    "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13747&Mode=0",
    "sources": [
@@ -596,8 +581,8 @@
    "score": 26.0
   },
   {
-   "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on November 05, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63919",
+   "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal, Maharashtra – Extension of Period",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63924",
    "sources": [
     "RBI Press Releases"
    ],
@@ -605,6 +590,20 @@
    "official": true,
    "official_only": true,
    "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 0,
+   "score": 23.0
+  },
+  {
+   "title": "Underwriting Auction for sale of Government Securities for &#8377;36,000 crore on November 06, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
+   "sources": [
+    "RBI Press Releases"
+   ],
+   "source_count": 1,
+   "official": true,
+   "official_only": true,
+   "category": "Insurance",
    "priority": 0,
    "age_hours": 0,
    "score": 18.0
