@@ -1,39 +1,38 @@
 {
- "updated": "07 Nov 2026, 01:06 PM IST",
+ "updated": "08 Nov 2026, 01:15 PM IST",
  "top": [
   {
-   "title": "CBI Registers Rs 904-Crore Bank Fraud Case Against Future Retail, Biyani Brothers",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNThWT3B0TmtYbVViMHdOcUZ3ZFNRdUctZGZPQXRqdDZfRXc3RjdmUkc0aUpOTHB5TjFiRnNQcHlpTWFKTzJneVBlMXY4RGFDU2hEQk5Ha3VKZUpVcDZMWGprdmdXeTd3QWE2eWtwSDZjLTJabDN5ekV6Rks1Um9IWi1FWXd0X3Zia3dsNkJOVVVMc1l0RkFNcXBZZU9aUVlPZkh2TTl5VjlqLUR4NjVVYkdOYVg5UEJmQ2VURnBXSFd4bEJu?oc=5",
+   "title": "CBI books Future Retail in alleged Rs 904 crore bank fraud case",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUk5eEw1WTk2RHRrMzNmVVlXSnZQa0YzaFZHRGlGcGZVNUpUTVc0aDYwQzdUWnNxUkFpa1pUbHl3ZXhqbHZObDl6My0zZXFxUF9udmNHNnpHdkt3dkRfZWNnd3dBVFBibldqS2hzZ082Y0kyMm5JY1ZFZDFHNTEwQ3lGRVV4NEJaOGlCQlVJU3dlTFg4MVRzVGRfMXZIQQ?oc=5",
    "sources": [
-    "India News Network",
-    "Moneylife",
-    "NDTV Profit",
-    "Oherald"
+    "Firstpost",
+    "Indian Television Dot Com",
+    "Moneycontrol.com",
+    "Moneylife"
    ],
-   "source_count": 6,
+   "source_count": 9,
    "official": false,
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 3,
-   "score": 68.7
+   "age_hours": 24,
+   "score": 68.5
   },
   {
-   "title": "SEBI’s new settlement regulations come into force",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDhKWWJ0MnI0NmpHMWRYOTFPY3lEXzVsOVBOaFF5TVNaUjlqYTkxN0hOUkpEb0gwNkVBQUNhSzFBblFxcmR3X3JCbE93RDJoS0hoU3JNMG9rSkdMWVdvSy1SNUthRUYxQkZneTBrNjhaMnlWeFpRN3l1eExwNklfaQ?oc=5",
+   "title": "Mint Explainer: Will Sebi's new rules on currency derivatives help the falling rupee?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZExLVGE5ZHJOeGo3VmR0Z21vcGpTcVJGYXBFQllDZ1Z4OFY3bXNvZXREcmV1ZklSZ1VKczZLTHlNQUNXbngyZ2JxUG5RUDY4VzJnazlpUm5tS3VzNlY0WUtHZDdSZE1WRlNXQXNqd3pnMFBCaC1IdFBuVG1hNC1LRnFaVEEyWk51SkxpOWwyaF84WlY4VXRlUHpBcElRZ19BM0lSSmdiTl95RkJZckxzdlg1RjFra1ZVdkhhdjVDUXA0UmI3OHRrVTkyeDQ2NVYzQUZSWVdoTQ?oc=5",
    "sources": [
-    "Press Trust of India",
-    "Telangana Today",
-    "The Economic Times",
-    "The Hawk"
+    "Livemint",
+    "Livemint Markets",
+    "TradingView"
    ],
-   "source_count": 4,
+   "source_count": 3,
    "official": false,
    "official_only": false,
-   "category": "Investing & Markets",
-   "priority": 0,
+   "category": "Lending & Credit",
+   "priority": 1,
    "age_hours": 3,
-   "score": 43.6
+   "score": 38.5
   },
   {
    "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
@@ -51,8 +50,24 @@
    "score": 36.0
   },
   {
-   "title": "Equity mutual fund returns in India average 13% over 30 years: Check SIP, lump-sum returns across 15 global markets",
-   "url": "https://www.livemint.com/money/personal-finance/equity-mutual-fund-returns-in-india-average-13-over-30-years-check-sip-lump-sum-returns-across-15-global-markets-11794010630175.html",
+   "title": "ITAT Surat ruling: Retired employee wins leave encashment tax dispute over  ₹8.02 lakh exemption claim",
+   "url": "https://www.livemint.com/money/personal-finance/itat-surat-ruling-retired-employee-wins-leave-encashment-tax-dispute-over-rs-8-02-lakh-exemption-claim-11794046534072.html",
+   "sources": [
+    "Livemint",
+    "Livemint Money",
+    "The Economic Times"
+   ],
+   "source_count": 3,
+   "official": false,
+   "official_only": false,
+   "category": "Lending & Credit",
+   "priority": 0,
+   "age_hours": 21,
+   "score": 27.3
+  },
+  {
+   "title": "SEBI settlement rules from November 7: Who can apply online, how much to pay and the 90-day deadline explained",
+   "url": "https://www.livemint.com/money/personal-finance/sebi-settlement-rules-from-november-7-who-can-apply-online-how-much-to-pay-and-the-90-day-deadline-explained-11794046408426.html",
    "sources": [
     "Livemint",
     "Livemint Money"
@@ -60,92 +75,75 @@
    "source_count": 2,
    "official": false,
    "official_only": false,
-   "category": "Investing & Markets",
-   "priority": 0,
-   "age_hours": 6,
-   "score": 25.9
-  },
-  {
-   "title": "Tata Mutual Fund Launches SIP Awareness Campaign, Takes Investor Education to 325 Cinema Screens",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRm03RVJXZDJEMjNOd29LaHo1cTRPcWRtRHRrV2x6bzQwWjA2b04tSnJXYWpDakpFSk9oZUY1ajNETWxjX1BTVlZnWFFnUkMwMno0aFcxdWkxRWEtdlJ6dXB2TU9ER18zdWVPT001bzgzQ0xOV2M2U0xnRS1MQmdDRE5Ld0MyeWlIVmhNQWtvdzBUTzhuNHhEVmpTeDRzOGJPdXpEbWVxZk42TXZUbVQyc2NCRXFtaE9JeXRLdUZDb0JVQQ?oc=5",
-   "sources": [
-    "Adgully",
-    "MediaNews4U"
-   ],
-   "source_count": 2,
-   "official": false,
-   "official_only": false,
-   "category": "Investing & Markets",
-   "priority": 0,
-   "age_hours": 1,
-   "score": 25.4
+   "category": "Lending & Credit",
+   "priority": 1,
+   "age_hours": 21,
+   "score": 23.6
   }
  ],
  "industry": {
   "Banking & Regulation": [
    {
-    "title": "India probes Future Retail in alleged bank fraud case",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUVNaWhuZkRibHN2eW11dG5VTnBJMXRFbUdfWFBlVGVUb0Ewa2hXVVB1NERFTEhyUG05a0V6aFVUdXpsT1EwQTZRTFlvUWY1alplTmtMYjMxa01NM3FqNFZwb0kwclZma216RjNGZFhneUxZUndqVTB5bm1hUlFQZGJHNnpJVFpfZjFfbmNNME1vQWwwYUFFQXR4My01ZkE?oc=5",
+    "title": "Diwali Muhurat Trading stock picks 2026: ICICI Bank, PVR Inox, Eternal among Geojit's 10 shares | Samvat 2083",
+    "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html",
     "sources": [
-     "Reuters",
-     "TradingView"
-    ],
-    "source_count": 2,
-    "official": false,
-    "official_only": false,
-    "category": "Banking & Regulation",
-    "priority": 2,
-    "age_hours": 19,
-    "score": 23.6
-   },
-   {
-    "title": "Central Bank of India loses ₹13.97 cr in cyber fraud; FIR filed | Tap to know more | Inshorts",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDRxTGh3cWEtT1YxNXMwX25aRnVUd0ZGamFBSjRvMHZTTGU4YWN3NDZSSE1YemtlV0t1bHlUVktXVUJuLURHM0doSENyRm9GenRCSVF0Y05UdzE2ZnI4MDBXOXZxVFNmZDdBbE9nUnVtLUlfZTBjSzFaRGg4MkZjclJRVFlKbjR4NWhXdUc3bk9fdVJJcG5YaUxLeG50Z21HMW1HNzBITmVETkFPbzJZ0gGvAUFVX3lxTE14NHFMaHdxYS1PVjE1czBfblpGdVR3RkZqYUFKNG8wdlNMZThhY3c0NlJITVh6a2VXS3VseVRWS1dVQm4tREczR2hIQ3JGb0Z6dEJJUXRjTlR3MTZmcjgwMFc5dnFUU2ZkN0FsT2dSdW0tSV9lMGNLMVpEaDgyRmNyUlFUWUpuNHg1aFd1RzduT191UklwblhpTEt4bnRnbUcxbUc3MEhOZUROQU9vMlk?oc=5",
-    "sources": [
-     "Inshorts"
+     "Livemint Markets"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Banking & Regulation",
     "priority": 2,
-    "age_hours": 3,
-    "score": 21.8
+    "age_hours": 0,
+    "score": 22.8
    },
    {
-    "title": "Recovery calls at work: What can borrowers do when loan recovery agents repeatedly call or contact their colleagues?",
-    "url": "https://www.livemint.com/money/personal-finance/recovery-calls-at-work-what-can-borrowers-do-when-loan-recovery-agents-repeatedly-call-or-contact-their-colleagues-11793911449786.html",
+    "title": "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
     "sources": [
-     "Livemint",
-     "Livemint Money"
+     "ET Markets"
     ],
-    "source_count": 2,
+    "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Banking & Regulation",
     "priority": 1,
-    "age_hours": 22,
-    "score": 21.4
+    "age_hours": 4,
+    "score": 22.3
+   },
+   {
+    "title": "Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these six days between 9-15 Nov. Check RBI calendar",
+    "url": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-branches-will-beopen-or-closed-from-9-15-nov-ahead-of-diwali-check-rbi-calend-11794098511014.html",
+    "sources": [
+     "Livemint Money"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Banking & Regulation",
+    "priority": 1,
+    "age_hours": 5,
+    "score": 21.5
    }
   ],
   "Lending & Credit": [
    {
-    "title": "Home loan fee at ₹999, personal loans at 9.99%: Axis Bank launches festive offers on loans, biz banking, credit card",
-    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOR0tqQU9MUzFLckJaSUNqVEhieVFiY081UFgxVXNYWjlYaUFEODFJeFJ4RVcxVi05TVZlNFZ6dkxVdGs0d3lTcE1NU2g2N0ZMYlIteXpJMEdjZDgzWWdzaW1lVEI5QUhNRlRKWkxiTEszckNOcVBvUGx5Q0JDcThqN1ltRFpwOC1mODhYOFJaNG01eDNjYlE4Tnd1VlhqcXk0RE9hN1VtSnZsTU9sVHJ1czBzLXpjemVpOEhQbFE5SFMzeUFRTzJPVWp2akRDTWhVNFNGOFdMaGJEY1JVMmJYVkRzU3VuWlhCZnJ5ZDczWTgzSnRraEstQW14MHRIMi1YWFl6X3dqMnlGc2JlVnczeWRNektfMnZWd0syNGZrNW3SAaACQVVfeXFMTkdLakFPTFMxS3JCWklDalRIYnlRYmNPNVBYMVVzWFo5WGlBRDgxSXhSeEVXMVYtOU1WZTRWenZMVXRrNHd5U3BNTVNoNjdGTGJSLXl6STBHY2Q4M1lnc2ltZVRCOUFITUZUSlpMYkxLM3JDTnFQb1BseUNCQ3E4ajdZbURacDgtZjg4WDhSWjRtNXgzY2JROE53dVZYanF5NERPYTdVbUp2bE1PbFRydXMwcy16Y3plaThIUGxROUhTM3lBUU8yT1VqdmpEQ01oVTRTRjhXTGhiRGNSVTJiWFZEc1N1blpYQmZyeWQ3M1k4M0p0a2hLLUFteDB0SDItWFhZel93ajJ5RnNiZVZ3M3lkTXpLXzJ2VndLMjRmazVt?oc=5",
+    "title": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect?",
+    "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-today-nifty-50s-7-day-bull-streak-sets-the-stage-for-samvat-2083-what-should-investors-expect-11794109496766.html",
     "sources": [
-     "Business Today"
+     "Livemint Markets"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Lending & Credit",
-    "priority": 1,
-    "age_hours": 31,
-    "score": 16.4
+    "priority": 0,
+    "age_hours": 3,
+    "score": 15.0
    },
    {
-    "title": "Buyers allege NBCC ‘selectively cancelled’ bids for 49 flats in premium Sarojini Nagar project — Here's what we know",
-    "url": "https://www.livemint.com/money/buyers-allege-nbcc-selectively-cancel-bids-49-flats-premium-sarojini-nagar-project-avenue-towers-delhi-housing-auction-11794031542877.html",
+    "title": "Diwali shopping: Should you pay upfront or choose no-cost EMI for expensive purchases? Here’s what buyers must know",
+    "url": "https://www.livemint.com/money/personal-finance/diwali-shopping-should-you-pay-upfront-or-choose-no-cost-emi-for-expensive-purchases-here-s-what-buyers-must-know-11794059555390.html",
     "sources": [
      "Livemint Money"
     ],
@@ -154,28 +152,28 @@
     "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
-    "age_hours": 0,
-    "score": 16.0
+    "age_hours": 18,
+    "score": 13.9
    },
    {
-    "title": "Bust fake news with BANGALOREMIRROR",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeUpQVFB3TzFnb2VMZVhtMGxCWnR0d3ZxaVdMdE1ZWHNCakxRY2dDYWR0MjFoc3VNVHBNUUYwVUtsUENqQnp4MnVEQzlHbHg5a1I5UDBqVi1JanF3amhZRm9aSzZKQjBHXzBzb3ZIeEU0WXA2bFF4TXBqaTdWUS1wRjdLRXhzSU1JbWVPUXlXMDdZMkdwcVdrbmdCYl9VUXk1LU05MlliRkMyZVJmOFA0MGFaZW4wdG1F0gG-AUFVX3lxTE02Z0NJMGQ1c0tHd2lkT2s0dlJpeGMxSldzRVlvbHJROE5jUEhaQ09aU0QtNlFBMUZmTFNxSTktRkdYVlNwdUhGR1JEUjRFZEpwTi10My1DWEtoWDhseU4wbVVKdlluTzFLeWhCeHdSTHhic0R4dHpfLTJmY3JwcEMzRGo4TlgzYlRFaGNpX3IzSkxBOEp3a2JyZU9CZ2p0cG1PSEFxYkJORF9pd0t2YzdYYXFXYWlvUVA2X3ZrVnc?oc=5",
+    "title": "Planning Diwali shopping on credit card EMI? 5 hidden costs to check before choosing no-cost EMI offers",
+    "url": "https://www.livemint.com/money/personal-finance/planning-diwali-shopping-on-credit-card-emi-5-hidden-costs-to-check-before-choosing-no-cost-emi-offers-11794036803416.html",
     "sources": [
-     "Bangalore Mirror"
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Lending & Credit",
-    "priority": 1,
-    "age_hours": 7,
-    "score": 15.7
+    "priority": 0,
+    "age_hours": 23,
+    "score": 12.9
    }
   ],
   "Payments & Fintech": [
    {
     "title": "UPI: Transforming India's Payment Landscape",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReC1CZ2NIVGNWN3J1MGNmTEE0dzc3UFVJRGdWM196a053MTc0S1g5eS1WTllBNFVOa1lVbUtMMk85Y0RCa2lCdDBtQ29wRHF6VTVfVnhmb2NGREFVbGhfV21xWUk4YkJuNWctb2tER19NUjlaVl93?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
     "sources": [
      "pib.gov.in",
      "www.pib.gov.in"
@@ -185,59 +183,42 @@
     "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
-    "age_hours": 12,
-    "score": 18.5
+    "age_hours": 13,
+    "score": 18.2
    },
    {
-    "title": "Dubai Duty Free offers Indian travellers 10% discount through UPI payments",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkFlUDBtOFhpRHNaRjZLeUM4YlB4TXJUQlVTN3BhQmZnZFc5R0JtWkJkaVZfemRlTlZCNFByVVlHazZ5XzV1N1paNGJMemh0ZWVoNFd6T1FOV1drQzJsQURQWDJuTTQyU1NkLUxTUnBnMl9VYnBvVmZLeUV6Z3hUUXJQLWdNUW5pOXZZaVNTZ3RCX2lxY01RMHhKQTBUancxMkplS1NtMXVXYXZkb01JZkV1cjN2Y1ljY1dBY1RtSkhPZw?oc=5",
+    "title": "Deadline Extended For 30% Cap On UPI Transactions By Payments Firms",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX1dFN0psN3BUSEdBZ0NWc250WmlXelZVV0xJdVI1RDFfZ19MZlB3UnEzWDNvYzlBTVdXLW53SUxibFo2WXRyYUtuNHBEWUM3VjhVRXRqeW9kT1ZtTlpydG9zR2NBMnRNSjg2RGlsdnd4ZTloZmNQVUlFbGtZcGlhVU5Nekk2ek41eUt1ZW5uZ1B2bjl3SE5DbkNodV91S29Fb3hRakg3ZmdtUVFKWXZTUTQ0R3oydTV1eGlmcHFEeER2cVhQQ1BmaWV4VFVzd2FQWXU1WDhRbmp5ckQyTy1vZnVJd25ENGdWM1pCMmlHVGJMNEo2SFlEa1BVeXVmMTFJckVSemgtRGNYemNMY1c1bkhqaHNfODJ60gGgAkFVX3lxTE9VdENVcjAtU0hDQ2YwSmhkSHVqRUYwODlUZzRfdlNsa0FUdUZqRzZrZkJJX21iWXVlTFhJamM2eXYyR19Bc2RQQnpVYVVuc2pqZVlha2VpenI0QVJUN2k2TWJoa0w0LU94cG9EZkxiT1dKLTVDMWM4czZaZS1WelRoYXU0MkdCcHhmcmZBVG9LVlotb3FVajlVTC1fbF9PMVlGT1U2aFdsVThlUDFHWHdOekZfdHQ0dlpnUmc5eWx5VUs0aUU4Q1Zqa2R5N3QwSVVsUV93SDVsbmJBeUtkdHJjYi1GaVhWVkFFMzFBbU1PQVM4bkdGMTdkSEhaSUZjSjd2SzRHMTdQaXVEdTBtdWN6b183by1vSmpqWlZuVTM3SA?oc=5",
     "sources": [
-     "CNBC TV18",
-     "DFNI"
+     "NDTV Profit"
     ],
-    "source_count": 2,
+    "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Payments & Fintech",
-    "priority": 0,
-    "age_hours": 44,
-    "score": 11.9
+    "priority": 1,
+    "age_hours": 19,
+    "score": 13.0
    },
    {
-    "title": "Lighting up your Diwali! Cupid, HFCL, Sterlite Tech, MTAR: 10 multibagger stocks that soared over 150% in Samvat 2082",
-    "url": "https://www.livemint.com/market/stock-market-news/lighting-up-your-diwali-cupid-hfcl-sterlite-tech-mtar-10-multibagger-stocks-that-soared-over-150-in-samvat-2082-11793956981821.html",
+    "title": "Proposed UPI merchant charges risk driving small vendors back to cash, warns new ISB study",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXdZOG5vQVJ1NkdRTnRFWnRmZk01R2FCZVM3ek9lTGFlSDJWcGtzQUtaUEVENVowMnozaW5sY1dycUFDRUVJZF9mYnF1akE4bWdkd0U3U1V5NlB6WWJ0dHhNY1kzUWRNM1ByQWljN2x3ZUE0M0ltMHM1TFhFbWZ5Yw?oc=5",
     "sources": [
-     "Livemint Markets"
+     "Counterview"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
-    "age_hours": 20,
-    "score": 11.2
+    "age_hours": 8,
+    "score": 11.1
    }
   ],
   "Investing & Markets": [
    {
-    "title": "SEBI Caps Unhedged Currency Derivatives at $5 Million",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GakVlY0g5UmdfY28yTnFpc3VzUlFTdWI0MF84alVsRHc0T19fLU9qM3pIYS1rbVNOdVV1NHlEWGVnQVdKZ3RwZGxHWE95MndqRTlYTEl1eXc2a05iWWcyMWJSbHFBTm1EUEE?oc=5",
-    "sources": [
-     "ETLegalWorld.com",
-     "Elets BFSI",
-     "Outlook Money"
-    ],
-    "source_count": 3,
-    "official": false,
-    "official_only": false,
-    "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 18,
-    "score": 24.0
-   },
-   {
-    "title": "Muhurat Trading Strategy Diwali Day 2026: What to do, what to buy, what to avoid? Trading guide for Nov 8",
-    "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-strategy-diwali-day-2026-what-to-do-what-to-buy-what-to-avoid-trading-guide-for-nov-8-key-levels-11794028047150.html",
+    "title": "Muhurat Trading 2026 prediction today for Nifty 50, Sensex, Bank Nifty on Diwali 2026 special session",
+    "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html",
     "sources": [
      "Livemint Markets"
     ],
@@ -245,72 +226,115 @@
     "official": false,
     "official_only": false,
     "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 2,
-    "score": 15.3
+    "priority": 1,
+    "age_hours": 1,
+    "score": 23.4
    },
    {
-    "title": "SEBIs New Settlement Regulations 2026 Take Effect From Today; Check Eligibility, Application Rules",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1JpZjBfWnNHcEVacFhlZTF4WWZpNHF6UVBZV0dwcU5Dek8zVlI2NDFRRjBoSDNzNEVEN0FnN0xJZm9qVGREOVFONExGMHNma3BreHkyZUtMWmpSWllBbEtpVVJydkxDZnRwV1E2OFk4eXVuY2tMUGZDRU0tY0QtQWdRZVFsMFVkdUFGeVl0VWZUSWZ4cW14bW1iQ092VHZtN05UVVcwSFRCTklIdFZMN0pYRWpKRy1hMi1qdzJUMzBOU3d2SWZjZ0FLTHh1dGxLTFg40gHYAUFVX3lxTE9iLUFNVHVua2pmTUVlRmtXMjNwM1ZfS282MlpHQlFmSFdSQzd2S3NnYnkyVWhzREdvaENOT0Eyc2d0a3dyTlpaLXR3WmFxTWdaME9WQjVPT3BmTG1CSmRKVFJucEZZTTQ3aGM4d2VZdXNjR05scDZWVUNFVmpLMnNBVmVxYjlCZTFvdzh0SjViVzFSVlUwaDVwekthcjAzcEYxUW9OZ2t3ZmwxMUlubGpqSGRQTHFkLU1QMXZXX1VxZDFjNTB2N0RGbXN1UTJYTUNCRk1jbGZVaA?oc=5",
+    "title": "Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  ₹100 — Suzlon, NHPC, South Bank by Sumeet Bagadia",
+    "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html",
     "sources": [
-     "Free Press Journal"
+     "Livemint Markets"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Investing & Markets",
+    "priority": 1,
+    "age_hours": 4,
+    "score": 22.3
+   },
+   {
+    "title": "SEBI's new settlement regulations come into force with online filing, fast-track mechanism",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWDJDVGlDUnU5MEd5Rm0wa0dQN0RzaVJCUVA4aEN2MHNjYmFOU1hQVDYtR29YMDV6bDlEc041MGlhZjF3QzdHMnBoMm5PVnl2OXl3ODA3djJLTjhKbW5sYW04NU5vam5VT0RhN21wQ3ZaQk50NWZoVkhoM3VsNlNhUTFaWFBDM2JsTUVaU2ZqVGtVd2tkaDBCU1k3Q0hnOG5HWUgwVW5uUExwRlZ5QlNTU05wenFhRjNKcWhPSTB2d2dKQnVuNHN6QjhDOFJKM0JncXRPbjN4Q3pmeHFrLWRBbkFYOWtVal9kbHBtUHF30gHyAUFVX3lxTE9ydlMwU3ZHSGhBYUJ6LVc3TnRucnpDWDB2THUwblV2bTNYZkRtVmlpQk1CczJoVzdlcTV3c0JhLWppbXgwazNQN2lGUndLRW9Md3NJb0FlUVRCbGtoUUpSZVpnenlGaE5lTEJtZm9zVmNOaGVLUmxmRDZsUWNLd0lZRnRKY0NSN2s5QnRXaEJOX0tueWstVERoOWFPWkNULTJuRy1YejczcERadU5KVXBKS1V4bzExR01aczJnNVEyczdMYTB4ZjJveXNyVTZFRzhFMHBkVGRLc1ZfR3hWM2JONy1TNE1KTXRIejJ0Mks0WFN3?oc=5",
+    "sources": [
+     "ETLegalWorld.com",
+     "Telangana Today"
+    ],
+    "source_count": 2,
+    "official": false,
+    "official_only": false,
+    "category": "Investing & Markets",
     "priority": 0,
     "age_hours": 2,
-    "score": 15.3
+    "score": 22.1
    }
   ],
   "Insurance": [
    {
-    "title": "IRDAI introduces four-layer motor insurance framework from December 15",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXRDMVgtNVNuZ3h4SEdCZ3kzWWZOYjJnM1dEZUZ0WjA5OWp1TDR4Ylgybk1ySTVhMHlqdFhHdVFfS3hMaDRMQkNqcklwTTlhMWIzNFRSVUl5UlFXQWplbjlVQ01WR3N0T3NwX1l3X09WNENlTGwzOXZIelBqU0VOVE5fMVIzTnM4OE90YWRjWklyWHNpOV9HRm55SVMzWXdOQ0E?oc=5",
+    "title": "16 grievance redressal camps to be organised across country during Nov 20: IRDAI",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBbnlIQ1N0T2RhNVd3YnZZb3BlWVV3QkRHeER6cURscElhWUphQ0oxd3VBMkVmYUtYWVIxV2s5R0h4MTFabnhqZ3p5YThGbkU0YldEQ3VoVQ?oc=5",
     "sources": [
-     "Elets BFSI",
-     "Outlook Money",
-     "Telangana Today"
+     "Asia Insurance Post",
+     "BusinessLine"
     ],
-    "source_count": 3,
+    "source_count": 2,
     "official": false,
     "official_only": false,
     "category": "Insurance",
     "priority": 0,
-    "age_hours": 47,
-    "score": 16.8
+    "age_hours": 18,
+    "score": 16.7
    },
    {
-    "title": "Insurance agent deposits Rs 35 lakh cash collected from policyholders in his bank account, gets tax notice; he fights and wins in ITAT Jaipur",
-    "url": "https://economictimes.indiatimes.com/wealth/tax/insurance-agent-deposits-rs-35-lakh-cash-collected-from-policyholders-in-his-bank-account-gets-tax-notice-he-fights-and-wins-in-itat-jaipur/articleshow/135522909.cms",
+    "title": "LIC expects limited impact from IRDAI's proposed commission reforms, higher-cost insurers may face pressure: MD R Doraiswamy",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT1dGbFlpVk5KRUk1NXpUM3poVlBEQzNQRzkwcXhiOHNTU3IwalVRMm14MW5idDZqMGxfX0NFOV9YOVJlLUZhSjd6WmEyWG9LcXNVV2NFeW5fcy13UmZFRlJ1SjM5UlUxM3YxN2h1WDFGbjV3TEtFZThYZnVEcXE5M0tzOExRQ2x5NUhPbW4xYTRrQW9LUERySHkwbFcwRTFMbDZUbHJoeUoyN1FsZnhwRVBoeG10RFJ3WmhmNGRVVHpkakJ5ajA1aGU3TkR5RFk4MXFVT190RGRpQ1hTNVJsWGJnX0JRTGRGOGpqTURZN2E2OW45bjlTSmpJVnhLQTJ2OHRmcUZxTjV1YUnSAYsCQVVfeXFMUE9XRmxZaVZOSkVJNTV6VDN6aFZQREMzUEc5MHF4YjhzU1NyMGpVUTJteDFuYnQ2ajBsX19DRTlfWDlSZS1GYUo3elphMlhvS3FzVVdjRXluX3Mtd1JmRUZSdUozOVJVMTN2MTdodVgxRm41d0xLRWU4WGZ1RHFxOTNLczhMUUNseTVIT21uMWE0a0FvS1BEckh5MGxXMEUxTGw2VGxyaHlKMjdRbGZ4cEVQaHhtdERSd1poZjRkVVR6ZGpCeWowNWhlN05EeURZODFxVU9fdERkaUNYUzVSbFhiZ19CUUxkRjhqak1EWTdhNjluOW45U0pqSVZ4S0Eydjh0ZnFGcU41dWFJ?oc=5",
     "sources": [
-     "ET Wealth"
+     "Devdiscourse",
+     "The Tribune"
+    ],
+    "source_count": 2,
+    "official": false,
+    "official_only": false,
+    "category": "Insurance",
+    "priority": 0,
+    "age_hours": 46,
+    "score": 13.2
+   },
+   {
+    "title": "Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms",
+    "url": "https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html",
+    "sources": [
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Insurance",
-    "priority": 1,
-    "age_hours": 75,
-    "score": 11.7
-   },
-   {
-    "title": "LIC expects limited impact from IRDAI's proposed commission reforms, higher-cost insurers may face pressure:..",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNYUF4TjBVSFBrcDFBQlBPcTlpVmExb3BkQjlhX05wV2FEcU90SkdlRUZYOW1qNEh2T1ptM09lY0xUaEZaZkRNZHc2QUlhVk5FbHFuU1lFMHRNUEZRLTQ5emoyc20xRXJLTjRGdW1NZ0FKYU9JSlNmYXp2dmdkWDFkTVJBNFBMcndILWpsS1pQVERQWW9uU2xaZlVIdVZ0S2VEcFhlM0RHX3ZEdEZ4cWd4TVpISEs4eFNPV0ZoTGlDVG10OHZXaGFlUXVjNFBIWURERWdKbE80X1NCYkx2RjlzT1k0QThIWGt2TlRTVU1iYWg4eEhPZ1RUbGVhVzQ5VnhHUlBLcWR3MnJrTGtUMk5GaHQ3N1hUVlJQLW5sYnRiZDE3MnPSAagCQVVfeXFMT1JuN2xBVTBkTFZiSnNGNGJEaFRyV1NXNFpEN2N4UGYwWGdIQnRLWXAyZ0JzOVV0MElicm9pSUF6UEtFUHdvRHNMVHoybnVGdjlrWTJJWlV6NDdTMWllenNiNzNTbGdwUG16NDIwWFhvalI4RmhpZ0M1Qno1VHFmOXQ1NjVZNkNnS0JNNU82LWhYYU9TSDJDRHItNW05eEFld2xBbFpQdWl4UTc4d1Zfb2FtTXJENThGX0xvUFJUdXE4MzNCS1IybFBlZ2R4ZHA4ZjNGSTJxQ3k4NU16RGdLYUVTYmwwSG5QbWQwNW5oS0hNUFNwUFJVSW13WjZ3WGVkSG1xbTF2SzBVaFJibVBMNXRjRVRjWUFRbmNpbWlVUkJNaE1IXzVMRGM?oc=5",
-    "sources": [
-     "cfo.economictimes.indiatimes.com"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Insurance",
     "priority": 0,
-    "age_hours": 21,
-    "score": 11.1
+    "age_hours": 5,
+    "score": 11.8
    }
   ],
   "Tax & Compliance": [
+   {
+    "title": "₹10 lakh in PPF vs  ₹10 lakh in NSC: How do maturity periods, returns and income tax benefits compare for investors?",
+    "url": "https://www.livemint.com/money/personal-finance/10-lakh-in-ppf-vs-10-lakh-in-nsc-how-do-maturity-periods-returns-and-income-tax-benefits-compare-for-investors-11794084008882.html",
+    "sources": [
+     "Livemint Money"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Tax & Compliance",
+    "priority": 0,
+    "age_hours": 1,
+    "score": 21.6
+   },
+   {
+    "title": "Sold property but received money in instalments? ITAT explains when you must pay income tax on capital gains",
+    "url": "https://www.livemint.com/money/personal-finance/sold-property-but-received-money-in-instalments-itat-explains-when-you-must-pay-income-tax-on-capital-gains-11794065759266.html",
+    "sources": [
+     "Livemint Money"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Tax & Compliance",
+    "priority": 0,
+    "age_hours": 14,
+    "score": 12.3
+   },
    {
     "title": "Over 7.8 crore ITRs filed for AY 2026-27 by August 31: Income Tax Department",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLXRFLXk5azdJamVPek5oMWtNbTRRbkhWVTV4eGZTdTNreG5kQXYtNjRiRk1qazhiZXRHeUlYbUtVcVh2R080azJieE5iN21pQlV5bGtaS3hadXRMa2dNV05yUDR1dHhOMTdYWE5UeHZ2THBjWXFyZkNqMC1tanRBbUJ6ZzRuOHNmemlrT0J0djlOaW4zaEx3b1ZOcnE2QXdPeENZ?oc=5",
@@ -321,37 +345,9 @@
     "official": false,
     "official_only": false,
     "category": "Tax & Compliance",
-    "priority": 0,
-    "age_hours": 12,
-    "score": 12.7
-   },
-   {
-    "title": "Grandmother's  ₹24.06 lakh gift: How land records and affidavit helped taxpayer win ITAT income tax case ruling in Jaipur",
-    "url": "https://www.livemint.com/money/personal-finance/grandmothers-24-06-lakh-gift-how-land-records-and-affidavit-helped-taxpayer-win-itat-income-tax-case-ruling-in-jaipur-11794026008599.html",
-    "sources": [
-     "Livemint Money"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Tax & Compliance",
-    "priority": 0,
-    "age_hours": 3,
-    "score": 12.3
-   },
-   {
-    "title": "India Should Scrap Equity Tax on Foreigners, Says Edelweiss Head",
-    "url": "https://www.livemint.com/market/india-should-scrap-equity-tax-on-foreigners-says-edelweiss-head-11794026589181.html",
-    "sources": [
-     "Livemint Markets"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Tax & Compliance",
-    "priority": 0,
-    "age_hours": 3,
-    "score": 12.3
+    "priority": 1,
+    "age_hours": 36,
+    "score": 11.9
    }
   ]
  },
@@ -367,8 +363,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 3,
-   "age_hours": 51,
-   "score": 16.4
+   "age_hours": 76,
+   "score": 13.2
   },
   {
    "title": "CBI Books Case Over Alleged $10 Mn Fraud In India Exim Bank",
@@ -381,8 +377,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 9,
-   "score": 19.5
+   "age_hours": 24,
+   "score": 15.4
   },
   {
    "title": "CBI searches Mumbai premises linked to Kishore Biyani in bank fraud case",
@@ -395,8 +391,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 17,
-   "score": 19.1
+   "age_hours": 41,
+   "score": 14.0
   },
   {
    "title": "Bombay High Court Quashes Willful Defaulter Declaration Against Non-Executive Woman Director for Violation of Natural Justice. Show-Cause Notice Mandatory Under RBI Master Circular Before Declaring Non-Whole-Time Director as Willful Defaulter.",
@@ -409,26 +405,26 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 31,
-   "score": 14.0
+   "age_hours": 55,
+   "score": 10.7
   },
   {
-   "title": "Central Bank of India Fraud: Was the RBI’s Payment Backbone Breached?",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMV9aZlVrNnBYb2xCVFBvWWVDcXgzd09oVFRMRDVpdld3TlAwZURMSmpJbngwX2pMLWg1OTA4bHBjVVZCcTRkN0lZUllONVF1Q2kyQUtKM0pfTjY1ZFN5SWlfX1o0Wk5ISG8tODZhc000TWdGWDV1TDdGMmVoclJMc1RoUTd4RzjSAYcBQVVfeXFMTTFfWmZVazZwWG9sQlRQb1llQ3F4M3dPaFRUTEQ1aXZXd05QMGVETEpqSW54MF9qTC1oNTkwOGxwY1VWQnE0ZDdJWVJZTjVRdUNpMkFLSjNKX042NWRTeUlpX19aNFpOSEhvLTg2YXNNNE1nRlg1dUw3RjJlaHJSTHNUaFE3eEc4?oc=5",
+   "title": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083",
+   "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-hdfc-bank-bse-to-zen-tech-sahi-research-s-5-stocks-to-buy-on-diwali-2026-for-samvat-2083-11794106502695.html",
    "sources": [
-    "The Probe"
+    "Livemint Markets"
    ],
    "source_count": 1,
    "official": false,
    "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 70,
-   "score": 10.6
+   "category": "Investing & Markets",
+   "priority": 1,
+   "age_hours": 5,
+   "score": 21.9
   },
   {
-   "title": "Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 7 Nov ahead of Diwali? Check RBI calendar",
-   "url": "https://www.livemint.com/money/bank-holiday-today-are-sbi-hdfc-icici-branches-open-or-closed-on-saturdayn-these-days-from-2-8-nov-check-rbi-calenda-11794012634040.html",
+   "title": "PF contributions deposited late? Can the income tax department impose a penalty on your employer? ITAT clarifies",
+   "url": "https://www.livemint.com/money/personal-finance/pf-contributions-deposited-late-can-the-income-tax-department-impose-a-penalty-on-your-employer-itat-clarifies-11794122922693.html",
    "sources": [
     "Livemint Money"
    ],
@@ -437,54 +433,54 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 6,
-   "score": 21.3
+   "age_hours": 0,
+   "score": 20.9
   },
   {
-   "title": "Muhurat trading 2026: Ganesh Dongre of Anand Rathi sees Sensex at 1,00,000 next Diwali? Shares 3 Samvat 2083 stock picks",
-   "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-ganesh-dongre-of-anand-rathi-sees-sensex-at-1-00-000-next-diwali-shares-3-samvat-2083-stock-picks-11794029018255.html",
+   "title": "NPCI 2026: Functions, Products, UPI Services and Important Facts",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGFwY3czZTBjaHVIVTFKeDBEZW1oV2F0NHhmRVdHS0hxYUNlcFo1S0huampjdEJmWm5aaWxDQmdNbUszV0pwckVxdXNvYVB1Q2k5THBfeksydTZtOEF2eTFaTmx0RjdGQzJwdkhtTVBZWkdmck9rTVkyOS1YV0pKcW9LMzJFeFJETHB2VUdXUjZodG5Y?oc=5",
+   "sources": [
+    "Bankersadda"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 3,
+   "score": 19.7
+  },
+  {
+   "title": "At loan reset, borrower picks EMI or tenure, not bank: RBI",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkx4elNmY0tBaUpubmFWYm5FdGJNVzEtam02WjBfOFpUQkgtbUdfZW5TZWRlbTdqZ1gxWEdZczktYWd0clFHM3BzQWs1a0F2cEJ1VjNObUsya2cwZ1c5M3BJLUtVbjNxZlRQUUR3d3hQVkkxVnZDelRoclo4aXFaMG1QMVowZjNxSlNBVkhieTFDRTZkYXZjdjZ3?oc=5",
+   "sources": [
+    "indianpaycalculator.in"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 1,
+   "age_hours": 23,
+   "score": 18.3
+  },
+  {
+   "title": "Muhurat trading 2026: 80% to 90% — will Sensex, Nifty improve decadal strike rate on ceremonial Diwali session?",
+   "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-80-to-90-will-sensex-nifty-improve-decadal-strike-rate-on-ceremonial-diwali-session-11794049934692.html",
    "sources": [
     "Livemint Markets"
    ],
    "source_count": 1,
    "official": false,
    "official_only": false,
-   "category": "Banking & Regulation",
+   "category": "Investing & Markets",
    "priority": 1,
-   "age_hours": 1,
-   "score": 20.7
+   "age_hours": 20,
+   "score": 17.0
   },
   {
-   "title": "Gold loan rules 2026: What RBI changed on loan eligibility, valuation, repayment, and auction of pledged gold jewellery",
-   "url": "https://www.livemint.com/money/personal-finance/gold-loan-rules-2026-what-rbi-changed-on-loan-eligibility-valuation-repayment-and-auction-of-pledged-gold-jewellery-11794030749293.html",
-   "sources": [
-    "Livemint Money"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 1,
-   "age_hours": 1,
-   "score": 20.5
-  },
-  {
-   "title": "Muhurat trading 2026: Top 3 Samvat 2083 stock picks by Sumeet Bagadia — Adani Ports, Sun Pharma, Kotak Bank; targets, SL",
-   "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-top-3-samvat-2083-stock-picks-by-sumeet-bagadia-adani-ports-sun-pharma-kotak-bank-targets-sl-11794025429338.html",
-   "sources": [
-    "Livemint Markets"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 1,
-   "age_hours": 2,
-   "score": 20.0
-  },
-  {
-   "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+   "title": "LTIMindtree Share Price Live Updates: LTIMindtree News",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-08-nov-2026/liveblog/135651420.cms",
    "sources": [
     "ET Markets"
    ],
@@ -493,8 +489,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 2,
-   "score": 17.3
+   "age_hours": 3,
+   "score": 16.9
   }
  ],
  "official": [
@@ -660,7 +656,7 @@
   {
    "name": "Google News: RBI circular",
    "ok": true,
-   "note": "15 items"
+   "note": "14 items"
   },
   {
    "name": "Google News: SEBI new rule",
@@ -705,7 +701,7 @@
   {
    "name": "Google News: NPS PPF India",
    "ok": true,
-   "note": "4 items"
+   "note": "1 items"
   },
   {
    "name": "r/IndiaInvestments",
