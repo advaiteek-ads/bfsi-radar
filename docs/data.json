@@ -1,55 +1,70 @@
 {
- "updated": "10 Nov 2026, 02:12 PM IST",
+ "updated": "11 Nov 2026, 01:33 PM IST",
  "top": [
   {
-   "title": "Supersession of Board of Directors of Abhyudaya Co-operative Bank Ltd., Mumbai",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63951",
+   "title": "IRDAI forms working groups on risk-based capital framework convergence with IndAS",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcF9KY2Y4TVRIRXZTcU1ZZjdkNDloMndESjV2Tl9aNldyalJjYUctaHFpd3hOZlo2SGtrN3liaVBMb1d6cE5zQjhlNFZZOGlzbWlFOFFzWmhseGQ4SjI4aDdEWnFwQUJrOHF3X0FOUDg4THlld2N0YUVUbkRtMGp0ZFRvazg3cTFkVm93QU43aEFNTjYtUHFZVFhaczNPRk15c2lEdE5iTHUwS3pQVTNnajlHTWVZeFhqNHIwTTBxVWxRLXJFTkFteGxYTHBIWldtLXoyUlhmVnZBSmtC0gHjAUFVX3lxTE16dHRXVmtVYkZCY21iUUU1ZVMxbjBOMC1Na01mVVlDZEpZUWh6bVJGR3hCN1RoRDJkMjBiZ21adTRhTVNuY3VDcVdpekEwUEhxNlI2QnQzRFVfTWcwaG5hQTRqazhQQzRnNWZYVDgwOWFRb2dBMlRrWV9iUndkQ2xxc1JLUTBIUTY1NDJWRGl5WkZ2N0ZFVWFqb0pBeGE2UDZhVERIaWR2TTlnblZJN01sV3pnYm9haEZJSVM3c2Vkd3ZfeFBnMGY4Rm9oenJwRVliaHFfdjY4dnJ4YXVRaGsybFhz?oc=5",
    "sources": [
-    "Business Standard",
-    "RBI Press Releases"
+    "Mid-Day",
+    "PSU Watch",
+    "Rediff MoneyWiz",
+    "The Hindu"
+   ],
+   "source_count": 4,
+   "official": false,
+   "official_only": false,
+   "category": "Insurance",
+   "priority": 0,
+   "age_hours": 3,
+   "score": 40.8
+  },
+  {
+   "title": "Bharat Dynamics - Union Bank of India among 5 stocks closing above VWAP",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT201TlNNXzhtdGpoTDN4UzJjdW1OYVU2aG5LYXJ3dHQ5a3FqcWktSzE0dXI0WkxmQzMxM3c2VWlMQndaS2dQNlhMZEs3YjNnSE1CUHRLdnktU2ZQX05tNnNSTW5RaENkbzhBTXB3Z0Z1RWF5M09nd2EzUTE4aU14U0ZpTXJCZEdCLWJuZTQtMmpkcjJXNHNZdzVQQkdRbjhOWUw0NEUyY3pBRnZVZVdlUEd2X2NxNHVvVVZnN2JBN3NYd3c4V2NKM214TkJHWGs1YXFVUzlOdXQ?oc=5",
+   "sources": [
+    "ET Markets",
+    "The Economic Times"
    ],
    "source_count": 2,
-   "official": true,
+   "official": false,
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 0,
-   "score": 36.0
+   "age_hours": 4,
+   "score": 28.8
   },
   {
-   "title": "Star Health gets IRDAI nod for HDFC Mutual Fund to acquire up to 9.99% stake",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0EtcmJQNFZzTldjZms4bk5TYUxmejA5WnRTbEM1ZkFqM1hoMmx1Y2xmdTNiSXlMUnItU3JhSlJqbE04SW9kenVtWHdiZkp3ZDRBazc3RkQ4WkVtcjgtaWkyR1A2S0U2azkweUlSQ1dKeXlvV05aRGRNRGlPQXhFbElOUWMtMnZIekUyYnd1VzhBR0pEd00xMDQ4MFlUMXVRUlZwY3FIRVBZcmdUUlhuT0xBNXBRUERibFpEc0dMX2VncGtYTnc3b3A5Ykl2U3hYZkNuOFJuN0hNQU1S0gHgAUFVX3lxTE9tOW9GUFVvNEZ5MXNzdlhRaXRWVlZTZU9iOVZpWldfZUs4RldlYmNGTjNfem85WEdBWGFwZTRsNjRhVTdvdURFc3FZRFk5cFQ1Y0VwZEt6ZDF4d2xZNmxzU1JwTTNiMk1lLVo2ZEZxUTVickJyUTRLbExtSHpsZVYxcEJfd0JyQkpOMkNWMjFCM3Rmbk0yZ2ZieG9ReXpSZTE5b09DX3ZuRVdfcDUxaWlMczM2NHNjcDdpUmI4U2lJV2lCQlREcEtFYzdGU3J1OVNFRWZpaUNTVTdSZUU5N3JC?oc=5",
+   "title": "IRDAI clears HDFC Mutual Fund to raise Star Health stake to 9.99%",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdUkwVTV4UDhTcnlLYlVUSkYwR2xfOFJqVFFsZzVhTXhMS2cxR3RBTjRmemloQWRPTGdJM2ZvamswamxGMHhaU1h5cDNqTHpheGFOVjFzSldGeEh6ejFrTGZkcnEwMS15VVNPajRBR29jOTJvQkdHV29tUmNCa3JfU3RZZ2cwbGVvY2haWjVqcw?oc=5",
    "sources": [
-    "Business Today",
-    "ETLegalWorld.com",
-    "scanx.trade"
+    "(Re)in Asia",
+    "ETLegalWorld.com"
    ],
-   "source_count": 3,
+   "source_count": 2,
    "official": false,
    "official_only": false,
    "category": "Investing & Markets",
    "priority": 0,
-   "age_hours": 13,
-   "score": 28.5
+   "age_hours": 5,
+   "score": 23.6
   },
   {
-   "title": "Senior citizen FD rates: Suryoday Bank offers 8.6% on five-year deposits; compare rates at SBI, HDFC Bank and others",
-   "url": "https://www.livemint.com/money/personal-finance/senior-citizen-fd-rates-suryoday-bank-offers-8-6-on-five-year-deposits-compare-rates-at-sbi-hdfc-bank-and-others-11794246408961.html",
+   "title": "Stock Market Today: Massive jump in Sensex, Nifty!  ₹4.5 lakh cr wealth added in a few mins",
+   "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-massive-jump-in-sensex-nifty-rs-4-5-lakh-cr-wealth-added-in-a-few-mins-reasons-for-bullish-party-11794369074218.html",
    "sources": [
-    "Livemint",
-    "Livemint Money"
+    "Livemint Markets"
    ],
-   "source_count": 2,
+   "source_count": 1,
    "official": false,
    "official_only": false,
-   "category": "Banking & Regulation",
+   "category": "Investing & Markets",
    "priority": 1,
-   "age_hours": 14,
-   "score": 26.1
+   "age_hours": 4,
+   "score": 22.1
   },
   {
-   "title": "UPI charges after Diwali: Will customers pay extra on payments above  ₹2,000? NPCI's MDR rollout likely in Nov",
-   "url": "https://www.livemint.com/money/personal-finance/upi-charges-after-diwali-will-customers-pay-extra-on-payments-above-2-000-npcis-mdr-rollout-likely-in-nov-11794289795387.html",
+   "title": "SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better",
+   "url": "https://www.livemint.com/money/personal-finance/sip-vs-lump-sum-which-strategy-delivers-higher-mutual-fund-returns-global-30-yr-data-reveals-what-worked-better-11794329719716.html",
    "sources": [
     "Livemint",
     "Livemint Money"
@@ -57,78 +72,61 @@
    "source_count": 2,
    "official": false,
    "official_only": false,
-   "category": "Lending & Credit",
+   "category": "Investing & Markets",
    "priority": 0,
-   "age_hours": 2,
-   "score": 25.1
-  },
-  {
-   "title": "Amex credit card points clawback: Why customers are losing Membership Rewards points and what they should do next",
-   "url": "https://www.livemint.com/money/personal-finance/amex-credit-card-points-clawback-why-customers-are-losing-membership-rewards-points-and-what-they-should-do-next-11794285406196.html",
-   "sources": [
-    "Livemint",
-    "Livemint Money"
-   ],
-   "source_count": 2,
-   "official": false,
-   "official_only": false,
-   "category": "Lending & Credit",
-   "priority": 0,
-   "age_hours": 3,
-   "score": 24.5
+   "age_hours": 15,
+   "score": 22.1
   }
  ],
  "industry": {
   "Banking & Regulation": [
    {
-    "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
-    "url": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
+    "title": "Delhi Police arrest 2 kingpins of Jamtara cyber fraud network in Rs 27.10 lakh fake bank website case",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUERIaUt3MzNYellSMkdfY2JYalBSdVBFSzVBMUpnaUpCNWh5TXFXclI1QUJlWEliY1dQZE9mQ0pCYzdwTkl0WTRWWVlPUGlYb200eXBjZkNmSW5sTmx4SHM1cVA3dWlFM1ZLT2NnUUFLWDZiYVNncTJrT0VaLXV3aGtuX1NYYklmVjdQVWI0aThmWnYyT2Z6eVJ3aGF1eEQ3SlFzQmY1N3VpaUpTMTB0TVBEdVZHQTRnVUdQTi1KVW5TZG1YcjQxVUFrajUzbENlcWhzcjRCZVRyMjRq?oc=5",
     "sources": [
-     "Business Standard",
-     "ET Markets"
+     "https://www.indiagazette.com/"
     ],
-    "source_count": 2,
+    "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Banking & Regulation",
-    "priority": 1,
-    "age_hours": 23,
-    "score": 21.1
+    "priority": 2,
+    "age_hours": 13,
+    "score": 20.6
    },
    {
-    "title": "India short bonds may underperform on rate hikes, cash squeeze",
-    "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
+    "title": "Commonwealth Bank of Australia's profit rises, but home loan applications slide",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXR4bTBTUVExMml3WlJoRUxGMnNabmUzbzRjdXJjWDBoTWotcWRmMVUwQU1Ia0ZNbFJVYl9FRklOQWE0Z1RMa3VHUVdkR3VKVGFWUXF6YUVKTDJrb2R3RFhxQ3h2dThzR29HQmhzTHY5LTRic0dwMElpS2t2N0VkZGJ3Z1ZzN1I1bV9FQXM0Y0VoRDN5bDRESlVJZDlocGZpcDVDVWMzMXNNdw?oc=5",
     "sources": [
-     "Business Standard",
-     "ET Markets"
-    ],
-    "source_count": 2,
-    "official": false,
-    "official_only": false,
-    "category": "Banking & Regulation",
-    "priority": 1,
-    "age_hours": 29,
-    "score": 19.4
-   },
-   {
-    "title": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
-    "sources": [
-     "ET Markets"
+     "Reuters"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Banking & Regulation",
     "priority": 1,
-    "age_hours": 6,
-    "score": 18.5
+    "age_hours": 11,
+    "score": 19.6
+   },
+   {
+    "title": "SC seeks WhatsApp's anti-fraud plan, asks banks to compensate digital scam victims",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMl9qWDYycHZFdG52Zl8wdmJjWW5LNzhFZ0pJbkVMSUhFdTVjWldPMmx5OWxud2tiRHRNVy1KQVRlUnRWMDlsYzVWZGw0TzVLVkxhd19ybDBiX1dDVy1HLXd4WXhjQldBc3NodHZLa1N4WFU3Z2IycUM5M0xqR1NQdF81MlRDbnNELTVjMm50d0JKd1Z5VWF2dW13Umg3M1hwcUdBdFpZRXZfTXFnZjF1SW53Tk11XzMydjNsekQ2Y0dXWFZKeC1wS05iWG55REdOTm16eFVsZ0FaUmRj0gHiAUFVX3lxTE43SFhHaGluOGJ5di1MLWNhc25rekFIZ21lV05UdGkyX21pWWZjenVqR244LTNWY2JFdmU4RWdZM2dHZ19ObmV0aVl5MEFMb3hjNVVCNnhyRVZZNWR5NFJpWjlONzhIWm55VnJ4azZvLTFtNXNsUlBnT1JsQkZ4LWhhQVVrRGQ0WEpfNlBoVXgwN2R5MjJCaFhHWklwN3VyUURkSXE1NFRDRUFuaEpSWFNpT0JUczBGZTJNZEdmMm1hanlGZUhKc0hhUE5jaDdyWHYwX29HN1RqVERlZVpYTzB1eXc?oc=5",
+    "sources": [
+     "India Today"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Banking & Regulation",
+    "priority": 3,
+    "age_hours": 21,
+    "score": 19.5
    }
   ],
   "Lending & Credit": [
    {
-    "title": "Received Diwali bonus or cash from your employer? Know  ₹15,000 exemption limit and when income tax applies | Explained",
-    "url": "https://www.livemint.com/money/personal-finance/received-diwali-bonus-or-cash-from-your-employer-know-15-000-exemption-limit-and-when-income-tax-applies-explained-11794275279531.html",
+    "title": "Bhai Dooj gift tax rules: Got money or gold from your brother? Check when festival presents become taxable",
+    "url": "https://www.livemint.com/money/personal-finance/bhai-dooj-gift-tax-rules-got-money-or-gold-from-your-brother-check-when-festival-presents-become-taxable-11794319980639.html",
     "sources": [
      "Livemint",
      "Livemint Money"
@@ -138,12 +136,12 @@
     "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
-    "age_hours": 6,
-    "score": 23.3
+    "age_hours": 17,
+    "score": 19.3
    },
    {
-    "title": "LTCG tax: India taxes capital gains. These countries don't: Singapore, Hong Kong and more",
-    "url": "https://www.livemint.com/money/personal-finance/ltcg-tax-india-taxes-capital-gains-these-countries-dont-singapore-hong-kong-and-more-11794215773712.html",
+    "title": "UPI charges after Diwali: Will customers pay extra on payments above  ₹2,000? NPCI's MDR rollout likely in Nov",
+    "url": "https://www.livemint.com/money/personal-finance/upi-charges-after-diwali-will-customers-pay-extra-on-payments-above-2-000-npcis-mdr-rollout-likely-in-nov-11794289795387.html",
     "sources": [
      "Livemint",
      "Livemint Money"
@@ -153,12 +151,12 @@
     "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
-    "age_hours": 23,
-    "score": 17.6
+    "age_hours": 25,
+    "score": 17.1
    },
    {
-    "title": "Indian travellers can avail 10% discount on UPI payments at Dubai Duty Free — Check offer cap, other details",
-    "url": "https://www.livemint.com/money/indian-travellers-avail-10-pc-discount-upi-transactions-dubai-duty-free-shopping-offer-cap-100-uae-dirhams-npci-payments-11794215635618.html",
+    "title": "Amex credit card points clawback: Why customers are losing Membership Rewards points and what they should do next",
+    "url": "https://www.livemint.com/money/personal-finance/amex-credit-card-points-clawback-why-customers-are-losing-membership-rewards-points-and-what-they-should-do-next-11794285406196.html",
     "sources": [
      "Livemint",
      "Livemint Money"
@@ -168,14 +166,14 @@
     "official_only": false,
     "category": "Lending & Credit",
     "priority": 0,
-    "age_hours": 23,
-    "score": 17.6
+    "age_hours": 26,
+    "score": 16.8
    }
   ],
   "Payments & Fintech": [
    {
     "title": "UPI: Transforming India's Payment Landscape",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReC1CZ2NIVGNWN3J1MGNmTEE0dzc3UFVJRGdWM196a053MTc0S1g5eS1WTllBNFVOa1lVbUtMMk85Y0RCa2lCdDBtQ29wRHF6VTVfVnhmb2NGREFVbGhfV21xWUk4YkJuNWctb2tER19NUjlaVl93?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
     "sources": [
      "pib.gov.in",
      "www.pib.gov.in"
@@ -185,56 +183,70 @@
     "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
-    "age_hours": 9,
-    "score": 19.2
+    "age_hours": 21,
+    "score": 16.0
    },
    {
-    "title": "Deadline Extended For 30% Cap On UPI Transactions By Payments Firms",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQX1dFN0psN3BUSEdBZ0NWc250WmlXelZVV0xJdVI1RDFfZ19MZlB3UnEzWDNvYzlBTVdXLW53SUxibFo2WXRyYUtuNHBEWUM3VjhVRXRqeW9kT1ZtTlpydG9zR2NBMnRNSjg2RGlsdnd4ZTloZmNQVUlFbGtZcGlhVU5Nekk2ek41eUt1ZW5uZ1B2bjl3SE5DbkNodV91S29Fb3hRakg3ZmdtUVFKWXZTUTQ0R3oydTV1eGlmcHFEeER2cVhQQ1BmaWV4VFVzd2FQWXU1WDhRbmp5ckQyTy1vZnVJd25ENGdWM1pCMmlHVGJMNEo2SFlEa1BVeXVmMTFJckVSemgtRGNYemNMY1c1bkhqaHNfODJ60gGgAkFVX3lxTE9VdENVcjAtU0hDQ2YwSmhkSHVqRUYwODlUZzRfdlNsa0FUdUZqRzZrZkJJX21iWXVlTFhJamM2eXYyR19Bc2RQQnpVYVVuc2pqZVlha2VpenI0QVJUN2k2TWJoa0w0LU94cG9EZkxiT1dKLTVDMWM4czZaZS1WelRoYXU0MkdCcHhmcmZBVG9LVlotb3FVajlVTC1fbF9PMVlGT1U2aFdsVThlUDFHWHdOekZfdHQ0dlpnUmc5eWx5VUs0aUU4Q1Zqa2R5N3QwSVVsUV93SDVsbmJBeUtkdHJjYi1GaVhWVkFFMzFBbU1PQVM4bkdGMTdkSEhaSUZjSjd2SzRHMTdQaXVEdTBtdWN6b183by1vSmpqWlZuVTM3SA?oc=5",
+    "title": "Pine Labs and WEBXPAY Launch UPI Acceptance Across Sri Lanka",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd3RsbHIxNzFXR3lmWEQ4TkdMUVBrbExUQ3RER2xzN2gzZmN1WHFqd3JOcW5GMlNLZnFjM19ZVDN3UHR5Z29iX0c2ckdBLUg0ck5OaEpuYVl2UzQ5UzNwTEx1QzZuRmZqdU53Y1RrQzRCYzNpdWY4VkVWT2I0QXFfdG16YzgzaEZHMTlPRkxQZXR6UXc?oc=5",
     "sources": [
-     "NDTV Profit"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Payments & Fintech",
-    "priority": 1,
-    "age_hours": 36,
-    "score": 10.3
-   },
-   {
-    "title": "Can NPCI replicate the UPI success in AI and blockchain?",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmZoM3I0aWpZTTFSRUNXelRVVGxQTkNGSXpYU1F5SGVLRU1qR2Iya1dVaVFBLWZKcU9aUFJPNkhMRjVpM0hMVG9mVnBDZFhfdExxOHFzTVQ4RkNKWkJDZDFfWXRTWFRZOWpvWXk1RlQ4dDkyNDdFemJ3V3JieXlVek9VRXp4UDlDUEYyWVd0VjZPNTJqLW1wNmF2N1g4TkhuZjUtWUU0SzNjaDZfZzY4NGdPOEJ2dlHSAbwBQVVfeXFMTmdVNjdwR0pHd253UmdSanp6LXV4bkI0cmxKVVZyZC1oUXVHX3RzSU1wX2JkdWlpSWZmNUV1Y3J0MU1ucEQzYlhYYTZiX1FOTl9xZWNWeGJPdGFnWEZuQURUSl9uWnVMQllVU2pmT1hiQ0pmMnljSGdkVEhIckNUcGR6V1NmV0dnVjI2clhjVzZBWk5GZ2Y4WHlSUlUwa2ZESVdvbDlsY2hidWNyTTF3dVVIWXRTMjZFUHVteUQ?oc=5",
-    "sources": [
-     "bfsi.economictimes.indiatimes.com"
+     "The Fintech Times"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Payments & Fintech",
     "priority": 0,
-    "age_hours": 32,
-    "score": 9.6
+    "age_hours": 5,
+    "score": 14.5
+   },
+   {
+    "title": "UPI New Rules 2026: Truth About 0.4% Charge Above ₹2,000",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEJlMXU0TUVXNVJrRGxlSlhfVVlBd3BMck13NldYWkNaR3lFSFpNMVFtSGF5TjcwZ0tZTlpvUEdPNHlhd1hjTFdrc2lJY2RxdUFYYmg5UDhfYnhYLW9LYmlib2tlcG1QUU56UmdjY0NlTGZ6RHFEcEU3M3k3dDRlUVRqS2FieFZ6S29kaGJCUXhUTmhN?oc=5",
+    "sources": [
+     "jeevanutsahnews.in"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Payments & Fintech",
+    "priority": 1,
+    "age_hours": 20,
+    "score": 12.7
    }
   ],
   "Investing & Markets": [
    {
-    "title": "SEBI Implements New Settlement Regulations 2026: Check Application Process, Fees and Deadlines",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcS1UVUNGemZWV3VmX1pxZzhsRi1WVzZGYUV6Y0JrYU5Bc1gwRTNDX2RRTnZLV3Nmbkg2S1E2dEpYRFQ3NGlKaE42OWNNZmp2Ri0wczdPcm91ZDFUVGx5bERrNWNMV1YtSzMtS0pzRFJoN01KRXNGeXh3cVJSbW9Lb2h4QTZsUUlmb05abXJTWHpVMTNa?oc=5",
+    "title": "From Gen Z to Older Investors, Mutual Fund SIPs Find Their Place Across Age Groups",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHd4ZEt1R0ptcGMzUVVFY1pXN3VMUUVaNVVBN3dWaDRhRVpZakpVd2FkZVlMRWpFNjRMRllObU1NSzJRWlNZazU0ZXp1Ui1RRl9Sc21EQ21pVjVBdzV6VFJ4MEhBMXF4Y2JzUDRoZmZZZ2V5bENfb0daNXdNM2VnLW5EVWtMcm9WcXBiVzhzR1ZHYXNYQ3FYTnR3OEctN3RlWjZtb2pNVlVlVHhCcGd2elNQZUpUeW9Sbml0Nm5FRnlkNlhjZjlFTGU2SE8?oc=5",
     "sources": [
-     "CAclubindia"
+     "ANI News"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Investing & Markets",
-    "priority": 1,
-    "age_hours": 5,
-    "score": 19.0
+    "priority": 0,
+    "age_hours": 0,
+    "score": 16.0
    },
    {
-    "title": "Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here",
-    "url": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
+    "title": "Mutual fund SIP inflows decline marginally MoM to Rs 32,160 crore in October",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2xmUThheWtBLXBQeDJTM0pVMjRfY2RySkxhMVlEMUcyRkZfRF9UV0VtellFREtfTFRYeEJsTk9jTUxYRDg3N1Q0Ym5SSHJja0JRMmVlUkt4aWNBNzhKNC13M1R4dDRDaVJvMk05WUlsaDJRNFhQanhhSVgzS285REt6SzY0eGpIVTQ4Mk82ZzJtMVdiZHJFLWplamxjc1pBSTcwTzBQWWo2cHdORDNadzVCanBEc0t4WktvUlZ0d3A2bkdfaGFrX2ZGMlVYTGhkeFQ1QWp2ZmlTelV20gHcAUFVX3lxTE53bGZROGF5a0EtcFB4MlMzSlUyNF9jZHJKTGExWUQxRzJGRl9EX1RXRW16WUVES19MVFh4QmxOT2NNTFhEODc3VDRiblJIcmNrQlEyZWVSS3hpY0E3OEo0LXczVHh0NENpUm8yTTlZSWxoMlE0WFBqeGFJWDNLbzlES3pLNjR4akhVNDgyTzZnMm0xV2JkckUtamVqbGNzWkFJNzBPMFBZajZwd05EM1p3NUJqcERzS3haS29SVnR3cDZuR19oYWtfZkYyVVhMaGR4VDVBanZmaVN6VXY?oc=5",
+    "sources": [
+     "The Economic Times"
+    ],
+    "source_count": 1,
+    "official": false,
+    "official_only": false,
+    "category": "Investing & Markets",
+    "priority": 0,
+    "age_hours": 1,
+    "score": 15.8
+   },
+   {
+    "title": "Why Shakti Pumps shares are rising 11% today amid Sensex, Nifty rally? Buy for more returns? Target, upside, rationale",
+    "url": "https://www.livemint.com/market/stock-market-news/why-shakti-pumps-shares-are-rising-11-today-amid-sensex-nifty-rally-buy-for-more-returns-target-upside-rationale-11794377722022.html",
     "sources": [
      "Livemint Markets"
     ],
@@ -243,28 +255,14 @@
     "official_only": false,
     "category": "Investing & Markets",
     "priority": 0,
-    "age_hours": 4,
-    "score": 17.5
-   },
-   {
-    "title": "Sensex crash survival guide: 10 moves to protect your savings, save tax and keep investing",
-    "url": "https://economictimes.indiatimes.com/wealth/invest/stock-market-crash-what-to-do-india/slideshow/135699071.cms",
-    "sources": [
-     "ET Wealth"
-    ],
-    "source_count": 1,
-    "official": false,
-    "official_only": false,
-    "category": "Investing & Markets",
-    "priority": 0,
-    "age_hours": 4,
-    "score": 17.4
+    "age_hours": 1,
+    "score": 15.8
    }
   ],
   "Insurance": [
    {
-    "title": "Received cash from customers and deposited it in your bank account? When can income tax authorities tax it",
-    "url": "https://www.livemint.com/money/personal-finance/received-cash-from-customers-and-deposited-it-in-your-bank-account-when-can-income-tax-authorities-tax-it-11794244686185.html",
+    "title": "From shagun to savings: how wedding registries are changing gifting",
+    "url": "https://www.livemint.com/money/personal-finance/wedding-registries-gifts-indian-weddings-shagun-newlyweds-digital-gifting-11794326616541.html",
     "sources": [
      "Livemint Money"
     ],
@@ -273,28 +271,28 @@
     "official_only": false,
     "category": "Insurance",
     "priority": 1,
-    "age_hours": 15,
-    "score": 22.7
+    "age_hours": 3,
+    "score": 16.8
    },
    {
-    "title": "IRDAI’s Five-Year Rule Protects Health Insurance Claims From Arbitrary Rejection",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iNUptQklBZ3NwaXJKMFkyTTJVZDlRZWdMM1pjeUZ5Z2ZFUlV4ck1xOXlXbVIxRDNCWnJVdjFRWWhQaTNwU1RfUjVYRFplZzZFX2VITFFYOEU2Zl9BY2paYi1ULWhfSm1ydDNJdXpIT3pOaC01TlE?oc=5",
+    "title": "EPS-95 higher pension: NCPA asks EPFO to withdraw January 2025 circular and stop rejecting retirees' claims",
+    "url": "https://www.livemint.com/money/personal-finance/eps95-higher-pension-ncpa-asks-epfo-to-withdraw-january-2025-circular-and-stop-rejecting-retirees-claims-11794323967411.html",
     "sources": [
-     "The 420.in"
+     "Livemint Money"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Insurance",
-    "priority": 0,
-    "age_hours": 24,
-    "score": 16.7
+    "priority": 1,
+    "age_hours": 16,
+    "score": 13.5
    },
    {
-    "title": "Wrong details in PF account can delay your money; EPFO explains how to correct them online in 5 easy steps",
-    "url": "https://www.livemint.com/money/personal-finance/wrong-details-in-pf-account-can-delay-your-money-epfo-explains-how-to-correct-them-online-in-5-easy-steps-11794293434161.html",
+    "title": "Once AI darling of shareholders, Nvidia sued by own stock buyers over CEO Jensen Huang affair; $420 bn lost in 2 days",
+    "url": "https://www.livemint.com/market/stock-market-news/once-ai-darling-of-shareholders-nvidia-sued-by-own-stock-buyers-over-ceo-jensen-huang-affair-420-bn-lost-in-2-days-11794377931484.html",
     "sources": [
-     "Livemint Money"
+     "Livemint Markets"
     ],
     "source_count": 1,
     "official": false,
@@ -317,14 +315,14 @@
     "official_only": false,
     "category": "Tax & Compliance",
     "priority": 2,
-    "age_hours": 3,
-    "score": 21.8
+    "age_hours": 26,
+    "score": 14.9
    },
    {
-    "title": "FISME Says Proposed GST Reconciliation Changes May Help MSMEs Reduce Reporting Errors and Compliance Costs",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXliMkpwaTVnRFk2RXRySWZIcE1GaFYzWmJRTXFoZFpEUjRHWnN0NXhhdm1fbkJZSEdIV253XzIxdHE2X1NmZUxkM0ItLVZTWU1obGljV0F0R1FxZHRvdWdGWFVlcEREV2NvQV9XNXlmOGJUUjBDZzNCelN5YU1zcy1CV1pFOUppbXpkWmZTT2NxcHlyUm9fSzZJQTlwQU9HR1NmZ3FEazBWTTltTHV2Nzc2NFZIcFhRejRxODFfX2Zsa0pVcUptODZR?oc=5",
+    "title": "Capital gains on debt funds and bonds updated: What changes for Tax Year 2026",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGFTN3E4UGJUWXpqd3VqbklPS1A0WnRSRmFZVy1tc2dxekwyWElISzJ3a05qWnZIYV8yRFNWVTNELWFfVklDZC0xRDZSanVrR2l3V3VraFF6MXVuR2lPWVgxa0hlYm1TRGs1Q1J4YnJ1OGhRd3pxMmJuMkVKQVJlUGY3YVI0eG1xZjRRNVN1NTRSSHp6blR6ajN3RVoxNWlLVmZQMktuWl9haURwX3I0eERnaGlWc1hHSkIxUVk1T2x6ZmdYT2NSMkZQMWRvWDFoZVBr0gHYAUFVX3lxTFBDcTZwX1BucmQyVFdCU1B0VUszdW93ZE5BaHBQRmtlbW9TdFFWRy1RYUZ0X3dWQTFNTzctblcyWW9sUHFqc3hyRXFzOGl4MUlnRkdfUUNfVkl3enc2Q0dkWF9kQWZQR0pMNHpLaTJMMTBDUkhVal85ODJXYmcybzFlQTZmS2FYLWxPdnRpV1QwVmdVcWpHSU9QRjVvTnVmRWY1V0hxSWg1Y1FsRzVNbmNoaFRObjEydUZkQ0xxTkd0MnZ6VGpEWW5HS0dibUl3X2lwTmllVEZhcw?oc=5",
     "sources": [
-     "A2Z Taxcorp LLP"
+     "The Economic Times"
     ],
     "source_count": 1,
     "official": false,
@@ -335,22 +333,120 @@
     "score": 12.3
    },
    {
-    "title": "Allahabad HC: Delayed ITRs Cannot Prove Pre-Accident Income",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNHVKMjkwSDRHXzhVc2dxQkJqSUdxa0h2b0JaUDY0Z19Zai1vY0pNVG5ydTZYWjczT2VwejVoOElCVEVXMkdGNzJfWXhibzJRTmZMQUxRd0RBa2FSU2ZFV2RNdjRjU01RejhZeV9iTVd1QWU1N3I5QnhLa2ZEcjVNQUJlODFvRWpsMGx5ODY4VUg2c2dLbkdHTENfampEd05IdlQzeGN6dzZHMU1QTGs1QjZEckZwRElEMm1QTnVoMzhKMTM3aS1NLUpsRXlzZnZHc0RIMg?oc=5",
+    "title": "Deduction in New Tax Regime Available For Tax Year 2026-27",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTFBT0Rmb2w3d2htQmlhNVVEa25RTmZDMFFROWp3VUtaV2FpOXdJQkgwaHhtb2w2ZWRxQmxKWUFIZUU1ZTVUaVB1bU05OEVYNFVpRTliX3d5WkgwYW1nT2NQb2JzT2lXU3FjUmZwN3N0aHFVUFlST2ZVZ2paclhmS180a3BxaERXbnI5bnJHcVdpVW9nTDAtWFdIYzJTbUFpeXVYZEJzQVM?oc=5",
     "sources": [
-     "Taxscan"
+     "CAclubindia"
     ],
     "source_count": 1,
     "official": false,
     "official_only": false,
     "category": "Tax & Compliance",
     "priority": 0,
-    "age_hours": 21,
-    "score": 9.1
+    "age_hours": 5,
+    "score": 11.9
    }
   ]
  },
  "secondary": [
+  {
+   "title": "Over Rs 22 cr siphoned from TN panchayat bank accounts, cyber fraud syndicate suspected",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODN0NWY1ZTlSOTVIalJQY3NDa2E5TnNRdVJ5UVd4N1VnMUtJNWVENmRTTk9lSVBoblRXN1VocWQ5b2otMEdWenk2bU9zMnFmakk2V1N3VlpydGszSHI2ejdia1FiaHRlTmRZT09GSFEzd21QenA0akgxWVAxVE0yQ1lsTmlHdHVWQjVEXy16anp2aGFBb3pKaXJwUFdPSGhNdG53ZWk2emNHWnVuMmxvSlZVdHdNaHlINkxIMVYtMWQzR2PSAcMBQVVfeXFMTzgzdDVmNWU5Ujk1SGpSUGNzQ2thOU5zUXVSeVFXeDdVZzFLSTVlRDZkU05PZUlQaG5UVzdVaHFkOW9qLTBHVnp5Nm1PczJxZmpJNldTd1ZacnRrM0hyNno3YmtRYmh0ZU5kWU9PRkhRM3dtUHpwNGpIMVlQMVRNMkNZbE5pR3R1VkI1RF8temp6dmhhQW96SmlycFBXT0hoTXRud2VpNnpjR1p1bjJsb0pWVXR3TWh5SDZMSDFWLTFkM0dj?oc=5",
+   "sources": [
+    "ThePrint"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 17,
+   "score": 19.1
+  },
+  {
+   "title": "Chargesheet filed in Canara Bank loan fraud case",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX01seF9BcGdlQlVVRTJHRWs5M242dzZ5WmFlanE3Ulhvdi1aN1dicmlNT1VtVGE3TUp4Z2RIbWtTMVVHTUtHamJJTnl5RXV3OENDaTJVRjFFVEFJSEVhaGcwSERuQ0tWZGstSENHSVN6TmI3VmQzWTdkTlpLUHprRGRvVFBoTWlHc2JjcFhscnrSAZQBQVVfeXFMTWxuRGR4UC13V213eTlpRFJmdlNFT0lyUkxTcnViajAya01HSmhhaWJkMGYzbGFMMGFaMEpEYTFqYlNPbFNOUkVJeC1WdWN3NTBHY2JXeFNHMzFicFg1eVU4VE1KVzdOTkZLOTBBaVluSEhpaFZwYzdNVkIyYmg1Ui1icGxUVWRDdEN3VUliUWdUaEVGSA?oc=5",
+   "sources": [
+    "The Tribune"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 12,
+   "score": 18.3
+  },
+  {
+   "title": "Supreme Court tells banks to pay victims for cyber fraud losses if found negligent",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekhQdDVKc0ZhbDVFdFZiMk1KT29aaURvWUZfS2FxVVFCb1FjUVVBQm1MZUF2c1RTSlNSTVF0OExGRVp1NEFmaFJlcWtIUHNSYzJ2TzlsMXB1NjFxZnVzS3ZvOUtWMlV2bnZIekowYmJVc3NWTHNHTXhlVHJkc09BMGMxZzZiVnJTcW13QzRuU1BkeHJNNmEyWk5jcTBkZHh3dzZITGRrRVNNYjJ3VVhwN1R2NTFVX1RQSHh6N19EbVBSN1hiaXBMeUNmdmVRUdIB2wFBVV95cUxNalhKazdYSmtIWDhONDJ6dmRYdEZYMGszU25FZlZwNXBkNEx1RG9FVmE0NFRfOFB1UmJLOHlIa1NIMXBLNjdJRWU0WjJHRjRpeTNGaVZyV2hWbE1raVpiY2VOMVVLcmFmMU9Na1M3bWVCXzg1Ulg3UFdiMjlvSk1UdDlxZWZwS1UtaWJ4ajlybW5IQUlTMFpNZHU4enZyZDMzMEtDajJsLWpkUFJYMlVZZ19DcThib2lMTUgzRE5WTzNsNUJGU3ZOUGJkZjZEWmw5aEcwT3FqUVJBU1k?oc=5",
+   "sources": [
+    "The New Indian Express"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 16,
+   "score": 17.2
+  },
+  {
+   "title": "'Where is CM Vijay': BJP targets Tamil Nadu government over ₹22-crore bank fraud | India News",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHFBeEx3Vmw4OFRXeTI2Um9FdjdsX0FHZUVUSmxxRUVFR3NWU1pqWDZVZkp6d2VEVDlld2VJT19FSjZjbXlhMmFQems5cjU0d2NudnRKTHVXY0h6dzlub004RlZEdjhIcDRwR1p1OXA5RE1vREk2Y1dxMThDYWE1Vm1Md1NoUFhubHpaLTRCVUZtZVpFbjV5bXl0R3otUTNsQUJaRmFoZjd5aXJqbUI3cDBQUzRwaVk3UGlheXBOZUZtUFc1S09HTG9vMG1oMl95QUJQMGdHVFg2d9IB3wFBVV95cUxORjVpX3pjS0hTblRReF9mX2pKWTVsNlFQTmZaSm1YcnkxcHpmRHlLT29xYkkwa0xVYmExZzhuWm5RaGl4bkhfbmFYclhQa3ZIUWpjblBnMGNhNk1JZHlWN21USVp5SW82X3o5ZWVPT1NNV2MtcF9feTN6Ql8ydEtpWkRfeUc4c0x6NmpRSmRnSXZ4THZsN1RGM0puUklQNlA1OWtLaGo4RUFYTGpPVGt6WklwbklJZEhNeE9LaGNuLW5KQWdwZGozdjNiTG15UWlkaEYzdkNxMmlKNHcxRzlj?oc=5",
+   "sources": [
+    "Hindustan Times"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 19,
+   "score": 16.5
+  },
+  {
+   "title": "ED Attach Properties In DHFL Bank Fraud Case",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlZ1OFFaQVd3eDdxR19BZGRHak8yNzF1ZFF1RXFXWlJEUWlYTlQ3WGpheElFSkhKZ3NTWVQ1ZzU4bEdwM213MXdua25XMUNZQ0g4dFl3OFp1eENKaUFmMzJwTHp0eENObjVybW1PVWpRQnMzbkFCYzN5QlRMdnM5YjVqY0dNaVU?oc=5",
+   "sources": [
+    "Inventiva"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 21,
+   "score": 15.9
+  },
+  {
+   "title": "J-K: Crime Branch chargesheets man in bank loan fraud case",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXdIMEx1LWdlLWVBNHgzdDZmS3pmZXFqT2FacDk4ZE1NdFJGZXROVk1nS0JUV2h0NTdxU1B1MHFMQ3A4OVVRMkVOSnpUMmZ1QjZqcFNXaXdPdUItUjZnR1plcFVLaFBoNjFPbldGcklYZVMybGZ4bFp0ZjRtOGhaa2RnWl9Na2p2U0FlOUNQUjYyODZjZlgtM2UzVFbSAZwBQVVfeXFMUG13SDBMdS1nZS1lQTR4M3Q2Zkt6ZmVxak9hWnA5OGRNTXRSRmV0TlZNZ0tCVFdodDU3cVNQdTBxTENwODlVUTJFTkp6VDJmdUI2anBTV2l3T3VCLVI2Z0daZXBVS2hQaDYxT25XRnJJWGVTMmxmeGxadGY0bThoWmtkZ1pfTWtqdlNBZTlDUFI2Mjg2Y2ZYLTNlM1RW?oc=5",
+   "sources": [
+    "ThePrint"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 23,
+   "score": 15.5
+  },
+  {
+   "title": "Bombay High Court Quashes Bank's Wilful Defaulter Declaration for Violating Natural Justice. Show-cause notice lacking specific grounds renders the decision invalid under RBI Master Circular on Wilful Defaulters.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sc3N3ZkVlbUQ4RTZSNUtROVJXdnN4YmpwY1FxNU8tNERCOHF6VmxDNndIVXFDbmFqVVVBSk95RlJWSER6Sm12RHJVdEM3OHJ0T2NKQzBuMjdQQktyN0tLTFFPbm5Xdw?oc=5",
+   "sources": [
+    "Lawtext"
+   ],
+   "source_count": 1,
+   "official": false,
+   "official_only": false,
+   "category": "Banking & Regulation",
+   "priority": 2,
+   "age_hours": 41,
+   "score": 14.1
+  },
   {
    "title": "CBI registers case against M/s Future Retail in alleged bank fraud case of Rs. 904.32 crores",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeC1zc3c5MV93dWVCZ1ZrQmVCbWZhdTdXOGczS1Z6VUJCRTdKcUlHRTNKQ1EwdklOMXVsRmMtbjRDeXRiMjZmMlZVVzk2VEswV0xYbjlDM196N3p5amVMOVdxMG4zQjV6RmtOOUR5QlpIV2JIRnpMbkNJcXZPN2hSOHVRUE5YUk1pTi10QnNfOXdJc0lUMVVUODNvRnpBS01hNFdNSXM1U2x2NEE1bDZVWEFNbGowZl9WYjJLUl9TT3AybFhVSkVsODZWdkpLT2RHZnc?oc=5",
@@ -362,36 +458,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 21,
-   "score": 18.2
-  },
-  {
-   "title": "Purchased gold during Dhanteras, Diwali puja done? Want to keep in bank locker? Rules, limits for keeping at home here",
-   "url": "https://www.livemint.com/money/purchased-gold-during-dhanteras-diwali-puja-done-want-to-keep-in-bank-locker-rules-limits-for-keeping-at-home-here-11794202456198.html",
-   "sources": [
-    "Livemint Money"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 24,
-   "score": 17.3
-  },
-  {
-   "title": "CBI Search Premises In Bank Fraud Case Against Avaya Industries",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG5kQWdfRnpOVU82T0lOUjJOMWFRTHd1ZUdUVkczY3d2QkJySDhHUUoyZDdlZmVTWDhjYjJZMS1HbG11S2tqYzE0SjFtei1PYnJXb2ZwZVBYSkFXY0tid1lUVzMtc19DaThGX1pEdE4tX25PbWJQYmpiRk9icVNIbVhSMDcxRUM4d0t3dDd3NFc0ZUJiaWY0ZUdQSUJGcnli?oc=5",
-   "sources": [
-    "Inventiva"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 28,
-   "score": 16.4
+   "age_hours": 44,
+   "score": 13.6
   },
   {
    "title": "J&K Bank loan fraud: ED attaches 11 properties worth Rs 10.63 crore",
@@ -404,54 +472,12 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 2,
-   "age_hours": 23,
-   "score": 15.7
+   "age_hours": 46,
+   "score": 11.8
   },
   {
-   "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd0l3bXJPR0Y4UlROYXU5SDJqbnlYblF0Njk5cnRxZG52dUE4OUpza2hVRFQ5YVNCd194d2JxZVNsQ0p1WnJ4Q3E0TnJpb1RPUG9xX0RzZXJWNHFnQWNoQzMtdzlSdDJnM3RnbWk0Tl8wWGJCdzRuTmZKLTllcURGclJaT1NSU0VDTWttMTJLNC04a012cWx1cVE4eDVJb3p5UTZTd2phSk5OT3lxMVlqQy0tTXZfQndPZF9KLUVGUFIwMzNYRk14SFJWRTFzQzk40gHXAUFVX3lxTE5pbWswZDJRenFvZmh6TVVDWnlNMnNWLVVnTXZnXzlza284dWVhc2Q2ZW93UDRCanJfakFOVnllSzE0RXZkRkJLVFhkdHo3d3MybjB1cWRIdE1OVlZ6eHdBdGhPYVI3RkJRaVJsSFd4MDFzSnlVbHdmSE1CTXAzb25xek44Nk5zdG9FQW9UUk41Q1ltd3lfbTNNMERBWE0xLWdsMVVaa21fUjVNWHE5bm80amFTSzVscEQzY3RMREhlSk9fYTVIdTlXckJEdXd4RC1ORHQ0Zlgw?oc=5",
-   "sources": [
-    "The Hindu"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 51,
-   "score": 11.2
-  },
-  {
-   "title": "Kochi Police Arrest Three Over Bank Accounts Supplied To Cyber Fraud Gangs",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR3FhaFhBdllkLXpmRXRwMnpaY29WdC1kV2xHY1lFazZqTkRBRVByVUhKLUlMekRaZzVvQWRGZEd4Q1ExcFNIMkVkTzV5Nmh5UjEtOGxZVGF3SU1aa2lkLTVMWGk1RS1lOG1Eam9KS1dxeDE3ZUlHX2hEWEV5UkxYd3hXVVZVM3I2WTFvbldObFdId08xX3hmTA?oc=5",
-   "sources": [
-    "The 420.in"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 63,
-   "score": 11.2
-  },
-  {
-   "title": "Uttar Pradesh man wanted in 2016 bank fraud case arrested in Haryana | Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMklyU2lLS2JxRlhhckRWOWFFY1BWbG9vYUFzZllkX0pnQ09GbWJSemhNMmVpbnlVMjhXdWkzZEpCQXd3MVpkRTVRZmkxb3FkSGpCZ3V3M2FBUUhDLU45WjlhazEyQUxOWExSM3RRVmZNQmRTQ21fY1FyNldFSXgyVHhTemh3OE40aHZaWUU3WUVHMGt5OWs0aC1QTjFBcTZBa3prTlNMTDFBMk10M3huV3MtTDRROHlLTmZrem5YeHlWX1B4QmdGcHcxWXZXVXluTEdXWHJGOUVnSzBO0gHcAUFVX3lxTFAySXJTaUtLYnFGWGFyRFY5YUVjUFZsb29hQXNmWWRfSmdDT0ZtYlJ6aE0yZWlueVUyOFd1aTNkSkJBd3cxWmRFNVFmaTFvcWRIakJndXczYUFRSEMtTjlaOWFrMTJBTE5YTFIzdFFWZk1CZFNDbV9jUXI2V0VJeDJUeFN6aHc4TjRodlpZRTdZRUcwa3k5azRoLVBOMUFxNkFremtOU0xMMUEyTXQzeG5Xcy1MNFE4eUtOZmt6blh4eVZfUHhCZ0ZwdzFZdldVeW5MR1dYckY5RWdLME4?oc=5",
-   "sources": [
-    "Hindustan Times"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 2,
-   "age_hours": 67,
-   "score": 9.6
-  },
-  {
-   "title": "RBI said to query bank valuations of some bond derivative trades",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
+   "title": "Punjab National Bank among 7 stocks showing White Marubozu pattern",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-7-stocks-showing-white-marubozu-pattern/slideshow/135725226.cms",
    "sources": [
     "ET Markets"
    ],
@@ -460,36 +486,8 @@
    "official_only": false,
    "category": "Banking & Regulation",
    "priority": 1,
-   "age_hours": 7,
-   "score": 18.4
-  },
-  {
-   "title": "Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why",
-   "url": "https://www.livemint.com/money/personal-finance/bank-holiday-today-10-nov-tuesday-bank-branches-closed-in-ahmedabad-bengaluru-mumbai-and-3-other-cities-heres-why-11794270057057.html",
-   "sources": [
-    "Livemint Money"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 1,
-   "age_hours": 7,
-   "score": 18.2
-  },
-  {
-   "title": "The great Indian money hunt: Why India's shadow banks are pulling in billions of dollars",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQmptQ1lqMWtqdEFIY0xmalhZV2RhN25uT3h3TnV5dFhnXzc0eGZWWDA3YWxPaTAyS1ZUQVFvcTZ4cmtBLTY2cXBMRG1wTHZvcGVkMHpkU1V5enJQMGdvSTB1Y1pVQTRZOEFyWURIMWU0Vmk1Q0ltOVZiS2lZNTFjdUV1X05TcXBOY3dkWWdvdlE2TGc3LVliaXZnTENmaTFXb2oxWFpUZ1FlYi1QZ0RTZGZ4enFpUjNycW92dTdHQVFfU2lieTNyWEhlWUJzeUE2WGdtcUNZSXV4cVV4d2dSc3RaMzViZ1RkSzBDSExGdXhzSFh0Rlp0a3U0RUlBSHNvQVFOcUFuR1V3d01mOWdiNEUxSEV6c2xIaDNZ0gGgAkFVX3lxTE1mRktDNHBXMG40cm9kTVo2a0lRY2w0MjNSQ1JQb25NRXlDcFlhRlU0ZEltc3RTM050VmFKRG9ZTGVxV1lMRXAzT096QjBTMUNqQmlTeTJSWEQ0VTdSUndTOWVZYkxOdnBYSkkxekhuX25tZWppM2QyS3BYdFBHbDVObEJpRnNhT2ozUDBwNXl3ektXR0g4dnVQVXFRVUc2MnJ6bXRqanBFTXpTNTV3c1MzUkFrM29mWENiTVBoci15R2N1SU54REY5UkhnaWpKMjlXSzZsOFF5MEt4THVwZ0VvMGVrQ0NBQlZ0U28yS2c0OXFBVVpfamhBZ0lPdXlVcV81a2JRSF9nc0x5WmxmTnBZTGd5NURZcldiQU5BYnZ5Sw?oc=5",
-   "sources": [
-    "The Economic Times"
-   ],
-   "source_count": 1,
-   "official": false,
-   "official_only": false,
-   "category": "Banking & Regulation",
-   "priority": 1,
-   "age_hours": 1,
-   "score": 17.7
+   "age_hours": 4,
+   "score": 19.3
   }
  ],
  "official": [
@@ -660,7 +658,7 @@
   {
    "name": "Google News: SEBI new rule",
    "ok": true,
-   "note": "14 items"
+   "note": "15 items"
   },
   {
    "name": "Google News: UPI payments India",
@@ -700,7 +698,7 @@
   {
    "name": "Google News: NPS PPF India",
    "ok": true,
-   "note": "3 items"
+   "note": "1 items"
   },
   {
    "name": "r/IndiaInvestments",
